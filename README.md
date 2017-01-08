@@ -18,6 +18,7 @@
 //显示服务器
 
     Window-->Show View-->Other--> Server
+    
 这个时候控制台（右下角会有Servers）那里选择Server，右击Add，把动态工程加进去，启动服务器，访问
 
     http://127.0.0.1:8080/springmvc-chapter2/hello
