@@ -25,4 +25,7 @@
 就可以啦。
 
 
-A test
+这个branch里面，实现文件上传功能。
+1.前端上传表单，action跳到url
+2.servlet.xml里面改变映射,将url映射到控制器
+3.写一个控制器，处理requset。
