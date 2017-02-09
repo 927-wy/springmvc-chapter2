@@ -1,6 +1,8 @@
 package cn.javass.chapter2.web.controller;
 
 
+import java.net.URLEncoder;
+
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
@@ -25,6 +27,7 @@ public class TestController implements Controller {
 		//resp.getWriter().write(test);
 		
 		return mvi;
+		
 	}
 	
 }

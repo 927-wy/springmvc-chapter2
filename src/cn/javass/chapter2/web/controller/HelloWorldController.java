@@ -112,9 +112,21 @@ public class HelloWorldController implements Controller {
                MultipartFile file=multiRequest.getFile(iter.next().toString());
                if(file!=null)
                {
-                   String path="E:/springUpload"+file.getOriginalFilename();
-                   //上传
+                   String path="E:/Java/springmvc-chapter2/WebContent/WEB-INF/newspringUpload"+file.getOriginalFilename();
+                   
                    file.transferTo(new File(path));
+                   //上传
+            	   /*boolean isSuccess=false;
+                   String path = req.getSession().getServletContext().getRealPath("/") + "upload/"  ;
+                         //  +  
+                   String filepath = path + file.getOriginalFilename();
+                   File folderPath = new File(path);
+                   if(!folderPath.exists()){
+                       isSuccess= folderPath.mkdir();  //建一个文件夹
+                   }
+                   file.transferTo(new File(filepath));*/
+            	   
+            	   
                }
                 
            }

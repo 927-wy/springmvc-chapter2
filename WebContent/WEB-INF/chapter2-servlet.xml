@@ -26,6 +26,9 @@
 		class="cn.javass.chapter2.web.controller.HelloWorldController" />
 	<bean name="/test"
 		class="cn.javass.chapter2.web.controller.TestController" />
+		<bean name="/detail"
+		class="cn.javass.chapter2.web.controller.DetailController" />
+		
      <bean id="multipartResolver"  
         class="org.springframework.web.multipart.commons.CommonsMultipartResolver">  
         <!-- set the max upload size100MB -->  

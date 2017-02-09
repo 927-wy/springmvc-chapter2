@@ -1,0 +1,3156 @@
+
+ 
+
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="content-language" lang="zh-CN" />
+    <meta name="google-site-verification" content="X6OJWiV6ws5XxP08OZZNglZpIZD_-EXXeGHyrx7ZTIs" />
+    <meta name="msvalidate.01" content="99E5BCCCE330E1C63C0CC5BDE57AEE80" />
+    <meta name="Copyright" content="爱奇艺-iQIYI.COM"/>
+    <meta name="author" content="爱奇艺-iQIYI.COM" />
+    <title>爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看</title>
+	<meta name="title" lang="zh-CN" content="爱奇艺视频-全球领先的在线视频播放平台" />
+    <meta property="og:title" lang="zh-CN" content="爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看" />
+    <meta name="keywords" lang="zh-CN" content="爱奇艺视频,视频,视频网站,高清视频,电影,电视剧,动漫,综艺,音乐"/>
+    <meta name="description" lang="zh-CN" content="爱奇艺（iQIYI.COM）是全球领先的提供海量、优质、高清的网络视频服务的大型视频网站，网络视频播放首选平台。爱奇艺影视内容丰富多元，涵盖电影、电视剧、动漫、综艺、生活、音乐、搞笑、财经、军事、体育、片花、资讯、微电影、少儿、母婴、教育、科技、时尚、原创、公益、游戏、旅游、拍客、汽车、纪录片、爱奇艺自制剧等剧目。视频播放清晰流畅，操作界面简单友好，真正为用户带来“悦享品质”的在线观看体验。"/>
+    <meta name="mobile-agent" content="format=html5;url=http://m.iqiyi.com/"/>
+    <meta http-equiv="Cache-Control" content="no-transform" /> 
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    
+    <meta  itemprop="image" content="http://www.qiyipic.com/common/fix/public/prop-img.jpg" />
+    <link rel="shortcut icon" href="http://www.qiyipic.com/common/images/logo.ico" type="image/icon"/>
+    <link rel="alternate" hreflang="zh-TW" href=" http://tw.iqiyi.com/"/>
+    <link type="text/css" rel="stylesheet" href="http://static.iqiyi.com/css/common/v3-index-iqiyi/base-index-v1.css" />
+    <link type="text/css" rel="stylesheet" href="http://static.iqiyi.com/css/common/v3-index-iqiyi/index-iqiyi.css" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.qiyipic.com/20130423143600/fix/H5-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.qiyipic.com/20130423143600/fix/H5-72x72.png">
+    <script type="text/javascript">window.__qlt = {};window.__qlt.statisticsStart = +new Date;window.__qlt.pgtype = "index";
+      window.__qlt.cid= "0";
+    </script>
+    
+ 
+<script type="text/javascript" src="http://static.iqiyi.com/js/lib/sea1.2.js"></script>
+
+  </head>
+  <body class="qypage-1180 skin_wrap"><!--skin_wrap--> 
+    
+ 
+<div class="dn" data-widget-ele="redPacketBox">
+  <div class="redPacket">
+    <div class="rp-bottom">
+      <div class="rp-ewmBox">
+        <div class="rp-ewm">
+          <img src="http://pic7.qiyipic.com/common/20160115/1452846932.png" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="rp-top"></div>
+    <a href="javascript:;" class="rp-close" data-widget-ele="closeRedPacket"></a>
+  </div> 
+</div>
+    <div class="skin_inner clearfix" id="adSkinInner">
+      <div class="skin_focus"><!--skin_focus-->
+        
+<!-- -->
+
+        <script type="text/javascript">
+          window.Q = window.Q || {};
+          Q.PageInfo = Q.PageInfo || {};
+          Q.PageInfo.lazyLoad = ["6","51","31","7","1","16","2","4","17","29","30","3","27","22","50"];//增加次行。每一项为频道ID        
+          Q.PageInfo.respInfo ={
+            cnf:[
+              {
+                layout:0,
+                cls:'qypage-980',
+                range:{
+                  min:0,
+                  max:1259
+                },
+                extraInfo:{}
+              },
+              {
+                layout:1,
+                cls:'qypage-1180',
+                range:{
+                  min:1259,
+                  max:1419
+                },
+                extraInfo:{}
+              },
+              {
+                layout:2,
+                cls:'qypage-1380',
+                range:{
+                  min:1419,
+                  max:9999
+                },
+                extraInfo:{}
+              }
+            ],
+            curLayout:1
+          }
+        </script>
+        
+        <!--adPublicParam start-->
+        
+ 
+<span data-widget-adparam="public" data-adparam-cupid="http://www.iqiyi.com/common/flashplayer/20150409/am-2-2-8-1.swf" data-adparam-cupid_ares="http://static.iqiyi.com/js/common/ares-2-26-0-fbcc2b71b1ec0bc512ab.min.js" style="display:none;"></span>
+        <!--adPublicParam end-->
+        <!--添加到屏幕-->
+        
+
+<div id="j-floatLayerIpadFav" class="popforipad" style="display:none">
+    <div class="cloBlock">
+        <a id="j-floatLayerIpadFavClose" class="cloIco" title="知道了" href="#"></a>
+    </div>
+    <div class="bd">
+        <div class="info_c">
+            请点击工具栏上的<span class="forIpadico2"></span>并选择“添加到主屏幕”，访问更方便
+        </div>
+    </div>
+</div>
+
+        <!--end-->
+        <!--ad预留-->
+        
+
+<!-- Ares Start -->
+<script type="text/javascript">
+//Wait for DOM Ready
+Q.element.ready(function(){
+	var cupid = Q.$('*[data-widget-adparam=public]').attr('data-adparam-cupid_ares');
+	//var cupid = 'http://static.qiyi.com/js/cupid/20140818/ares.js';
+        var playerId = '';
+	if (Q.browser.iPad) {
+		playerId = 'qc_100001_100141';
+	} else {
+		playerId = 'qc_100001_100025';
+	}
+	if (cupid && playerId) {
+		seajs.use(cupid, function(ADC){
+                       if (ADC) {
+			var adc = new ADC(playerId);
+                       }
+		});
+	}
+});
+</script>
+<style>
+.cupid-expand {
+    left: -287px;
+}
+</style>
+<!-- Ares End -->
+<!-- 皮肤广告 Start -->
+<div style="z-index:110;position:relative;width:100%;overflow:hidden;"><div id="1000000000203" style="display:none;"><a id="adClick" onfocus="this.blur();" style="width:100%;position:absolute;"></a><div id="adDiv" style="width:970px;margin:0 auto -25px;"></div></div></div>
+<!-- 皮肤广告 End -->
+        <!--end-->
+        <!-- qypage-980   -1180    -1380 -->
+        <script>
+          (function () {
+            var body = Q.$('body');
+            var width = Q.page.getViewWidth() > Q.page.getWidth() ? Q.page.getWidth() : Q.page.getViewWidth();
+            if (Q && Q.PageInfo&&Q.PageInfo.respInfo) {
+              
+              var cnf = Q.PageInfo.respInfo.cnf;
+              body.removeClass(cnf[Q.PageInfo.respInfo.curLayout].cls);
+              for (var i = 0; i < cnf.length; i++) {
+                if (width >= cnf[i].range.min && width <= cnf[i].range.max && !body.hasClass(cnf[i].cls)) {
+                  body.addClass(cnf[i].cls);
+                  Q.PageInfo.respInfo.curLayout = cnf[i].layout;
+                  break;
+                }
+              }
+            }
+          })();
+        </script>
+        <!--nav-->
+        <div id="block-A" data-block-name="导航">
+          
+
+<!--搜索词-->
+
+
+<!--搜索词 end-->
+<div class="topNavWrap-index topNavWrap-index-v2" data-widget-compatible="wrap" data-ipadhack-elem="nav" data-widget-toplinefloaterparent="blackFloaterParent">
+  <div data-widget-navctrl="channel" class="navTopNew topNav-pindao" data-css="cells/block_navPindao.css" data-toplinefloater-needchangeavatar="true" data-toplinefloater-scrolltop="580" data-widget-toplinefloater="blackFloater" style="position: relative;"><!---->
+    <div class="navMid clearfix">
+      <div class="topNavLt">
+        <div class="topLogo"><a href="http://www.iqiyi.com/" rseat="iQIYI_logo" title="iQIYI_logo"><img alt="爱奇艺 iQIYI.COM" title="爱奇艺 iQIYI.COM" data-lazy="http://www.qiyipic.com/common/fix/public_images/logo108x35_black.png" src="http://www.qiyipic.com/common/fix/public_images/logo108x35_black.png"> </a> </div>
+        <div class="topDot">
+          <h2>综 艺</h2>
+        </div>
+      </div>
+       <!-- 推广logo start-->
+      
+          <div class="logo_ranning">
+            <a href="http://www.iqiyi.com/a_19rrh9swyh.html" style="background: url(http://pic6.qiyipic.com/common/20161107/8024eb83dc89423788ab1ca55f16f58c.png) no-repeat; width: 97px; height: 53px; margin:3px 0 0 30px; display: block;" rseat="runningman_logo" target="_blank"></a>
+          </div>
+              
+      <!-- 推广logo End -->
+      <div class="topNavMid" data-widget-navanim="wrap" data-navanim-param="channel">
+        <div class="dhBox">
+          <div data-widget-navctrl-elem="guide" class="dhGuide">
+            <div data-widget-navctrl-elem="shadow" class="">导航</div>
+          </div>
+          
+          <!-- guide Start -->
+          <div class="ydBox" style="display: none;" data-widget-navctrl-elem="tip">
+            <div class="gtips-bg"></div>
+            <div class="gtips-txt">
+              <p> <span>更多频道内容在这里查看</span><a class="xclose" j-tipclose="closebtn" href="javascript:void(0);">知道了</a> </p>
+            </div>
+          </div>
+          <!-- guide End -->
+        </div>
+      </div>
+      <!-- nav first Start -->
+        
+        <div class="navboxFirst navboxWx" data-widget-navctrl-elem="first" style="display:none">
+          <div class="mod-navPop clearfix">
+            <div class="navPop_bd clearfix">
+              <ul class="nav_one clearfix">
+                
+                  
+                  
+                  <li><a rseat="娱乐" href="http://yule.iqiyi.com"  >娱乐</a></li>
+                
+                  
+                  
+                  <li><a rseat="体育" href="http://sports.iqiyi.com"  >体育</a></li>
+                
+                  
+                  
+                  <li><a rseat="资讯" href="http://news.iqiyi.com"  >资讯</a></li>
+                
+              </ul>
+              <ul class="nav_two clearfix">
+                
+                  
+                  
+                  
+                  
+                  <li ><a rseat="电影" href="http://www.iqiyi.com/dianying/"  >电影</a></li>
+                
+                  
+                  
+                  
+                   
+                  <li class="nav_3z"><a rseat="电视剧" href="http://www.iqiyi.com/dianshiju/"  data-widget="navdot" data-dot-cid="5" >电视剧<i style="display:none;" class="tip_dot" data-newicon="dot"></i></a></li>
+                
+                  
+                  
+                  
+                  
+                  <li ><a rseat="片花" href="http://trailer.iqiyi.com"  >片花</a></li>
+                
+                  
+                  
+                  
+                   
+                  <li class="nav_3z"><a rseat="综艺" href="http://www.iqiyi.com/zongyi/"  >综艺</a></li>
+                
+                  
+                  
+                  
+                  
+                  <li ><a rseat="网络电影" href="http://www.iqiyi.com/weidianying/"  >网络电影</a></li>
+                
+                  
+                  
+                  
+                   
+                  <li class="nav_3z"><a rseat="脱口秀" href="http://talkshow.iqiyi.com/"  >脱口秀</a></li>
+                
+              </ul>
+              <ul class="nav_three clearfix">
+                
+                  
+                  
+                  <li><a rseat="动漫" href="http://www.iqiyi.com/dongman/"  >动漫</a></li>
+                
+                  
+                  
+                  <li><a rseat="生活" href="http://life.iqiyi.com"  >生活</a></li>
+                
+                  
+                  
+                  <li><a rseat="少儿" href="http://child.iqiyi.com/"  >少儿</a></li>
+                
+                  
+                  
+                  <li><a rseat="母婴" href="http://baby.iqiyi.com"  >母婴</a></li>
+                
+                  
+                  
+                  <li><a rseat="教育" href="http://edu.iqiyi.com/"  >教育</a></li>
+                
+                  
+                  
+                  <li><a rseat="健康" href="http://www.iqiyi.com/health/"  >健康</a></li>
+                
+              </ul>
+              <ul class="nav_four clearfix">   
+                
+                  
+                  
+                  <li><a rseat="音乐" href="http://music.iqiyi.com"  >音乐</a></li>
+                
+                  
+                  
+                  <li><a rseat="搞笑" href="http://fun.iqiyi.com"  >搞笑</a></li>
+                
+                  
+                  
+                  <li><a rseat="时尚" href="http://f.iqiyi.com"  >时尚</a></li>
+                
+                  
+                  
+                  <li><a rseat="原创" href="http://dv.iqiyi.com"  >原创</a></li>
+                
+                  
+                  
+                  <li><a rseat="旅游" href="http://www.iqiyi.com/lvyou/"  >旅游</a></li>
+                
+                  
+                  
+                  <li><a rseat="拍客" href="http://paike.iqiyi.com"  >拍客</a></li>
+                                               
+              </ul>
+              <ul class="nav_five clearfix">                
+                
+                  
+                  
+                  
+                  
+                  <li ><a rseat="财经" href="http://business.iqiyi.com"  >财经</a></li>
+                
+                  
+                  
+                  
+                   
+                  <li class="nav_3z"><a rseat="军事" href="http://mil.iqiyi.com"  >军事</a></li>
+                
+                  
+                  
+                  
+                  
+                  <li ><a rseat="科技" href="http://tech.iqiyi.com"  >科技</a></li>
+                
+                  
+                  
+                  
+                   
+                  <li class="nav_3z"><a rseat="公益" href="http://gongyi.iqiyi.com/"  >公益</a></li>
+                
+                  
+                  
+                  
+                  
+                  <li ><a rseat="汽车" href="http://auto.iqiyi.com"  >汽车</a></li>
+                
+                  
+                  
+                  
+                   
+                  <li class="nav_3z"><a rseat="纪录片" href="http://www.iqiyi.com/jilupian/"  >纪录片</a></li>
+                  
+              </ul>
+              <ul class="nav_six clearfix">
+                
+                  
+                  
+                  
+                  <li ><a rseat="风云榜" href="http://top.iqiyi.com"  >风云榜</a></li>
+                
+                  
+                  
+                  
+                  <li ><a rseat="奇秀直播" href="http://x.pps.tv/"   target="_blank">奇秀直播</a></li>
+                
+                  
+                  
+                  
+                  <li ><a rseat="全网影视" href="http://v.iqiyi.com"   target="_blank">全网影视</a></li>
+                
+                  
+                  
+                  
+                  <li  class="menuLink-pad"><a rseat="直播中心" href="http://www.iqiyi.com/live/"  >直播中心</a></li>
+                
+                  
+                  
+                  
+                  <li ><a rseat="全网搜索" href="http://so.iqiyi.com"  >全网搜索</a></li>
+                
+                  
+                  
+                  
+                  <li ><a rseat="应用商店" href="http://store.iqiyi.com"   target="_blank">应用商店</a></li>
+                           
+              </ul>
+              <ul class="nav_seven clearfix">
+                
+                  
+                  
+                  
+                  
+                  
+                  <li >
+                    <a rseat="商城" href="http://mall.iqiyi.com?odfrm=AQY01"   target="_blank" >商城
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                   
+                  <li class="nav_3z">
+                    <a rseat="大头" href="http://datou.iqiyi.com/"   >大头
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                  
+                  <li >
+                    <a rseat="文学" href="http://wenxue.iqiyi.com"   target="_blank" >文学
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                  
+                  <li >
+                    <a rseat="游戏视频" href="http://games.iqiyi.com/"   >游戏视频
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                   
+                  <li class="nav_3z">
+                    <a rseat="VIP会员" href="http://vip.iqiyi.com/"    class="nav_link-vip">
+                      
+                        <i class="icon-vip"></i><span class="nav_linkTx-e">VIP会员</span>
+                      
+                    </a>
+                    
+                      
+                      
+                      <a rseat="爱频道" href="http://aipindao.iqiyi.com/" class="nav_link-pd"  >爱频道</a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                  
+                  <li >
+                    <a rseat="广告" href="http://www.iqiyi.com/ad/"   >广告
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                  
+                  <li >
+                    <a rseat="游戏中心" href="http://g.iqiyi.com/"   >游戏中心
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                   
+                  <li class="nav_3z">
+                    <a rseat="VR" href="http://vr.iqiyi.com/"   >VR
+                      
+                    </a>
+                    
+                  </li>
+                
+                  
+                  
+                  
+                  
+                  
+                  <li >
+                    <a rseat="个人中心" href="http://www.iqiyi.com/u"   >个人中心
+                      
+                    </a>
+                    
+                  </li>
+                  
+              </ul>
+              <!-- vip新结构  -->
+              <ul class="nav_eight nav_eight-vip clearfix">
+                <li>
+                  <a href="http://vip.iqiyi.com/?fc=b4df9faa4b31aec4" class="nav_link-vipNew" rseat="vip_a">
+                    <i class="icon-vipGold"></i>
+                    <span class="nav_link-vipTx">VIP会员</span>
+                  </a>
+                </li>
+              </ul>
+              <!-- vip新结构 end  -->
+            </div>
+          <!-- app download start -->
+          <div class="mod-appDownload-nav">
+            <a href="" pubarea="pcltdown_1501192" data-widget-getUrl="layerDownloadUrl"  class="appDownload-nav_img" title=""></a>
+            <p class="appDownload-nav_desc"><span>提高3倍流畅度！</span><a href="" pubarea="pcltdown_1501192" data-widget-getUrl="layerDownloadUrl"  class="appDownload-nav_link">立即下载</a></p>
+          </div>
+          <!-- app download end -->
+        </div>
+      </div>
+       <!--<iframe class="frame-leftMenu" frameborder="0" data-navctrl-elem="underframe"></iframe> -->
+      <!-- nav first End -->
+      <div id="j-header" class="topNavRt topNavRt_new"> 
+        <!-- 引导VIP用户绑定手机号 -->
+        <div data-vip-bind="mobile"></div>
+        <!-- 引导VIP用户绑定手机号 end-->
+        <!--old=login start-->
+        <div data-temp-old="true" class="topLogin" data-private-display="" style="display: none;"> 
+          <!--更新提醒--> 
+          <span class="toGeng"> <span style="display:none;" j-updaterecord="icon" class="gxBg"><span class="gxNum"></span><em j-iconnum="true">0</em></span> <a j-firsttip="hasnot" j-updaterecord="title" style="display:none;" href="javascript:void(0)" class="gx" rseat="更新">更新</a> </span> 
+          <!--更新提醒 end--> 
+          <span j-updaterecord="titlesplit" style="display:none" class="line">|</span><a class="a1 jilu" onFocus="this.blur();" id="topT1" onClick="return false;" href="#" rseat="播放记录">播放记录</a> <span id="j-login-wrapper" class=""></span> </div>
+        <!--old=login end--> 
+        <!--new=login start-->
+        <div style="display: block;" data-con="head" id="data-temp-new" class="topLogin"> 
+          <!--add bofang jilu-->
+          <div class="topNav_user usrTx-box">
+            <div class="usrTx-outer" data-widget-userregistlogin="userregistlogin" id="widget-userregistlogin" style="display: block;"> 
+              <!-- 控制积分弹层和用户名 -->
+              <div style="float:left;"> 
+                <!--个人积分弹出层 开始-->
+                <div class="usrTx-new_hover" style="display: none;" data-widget-userbox="userbox" data-private-display="block">                      
+                </div>
+                <!--个人积分弹出层 结束--> 
+                <span j-user="name" style="display: none;" class="usrTx-name" data-elem="topUserName" data-private-display=""> 
+                  <span data-widget-score="name">
+                    <a href="http://www.iqiyi.com/u/" rel="nofollow" rseat="tj_usrclk" class="usrTx_newWrap clearfix">
+                      <span class="myName" id="top-username"></span>
+                      <i data-vipheader-elem="vipicon" class="kthy0201" style="display: none;"></i>
+                      <i data-vipheader-elem="notvipicon" style="display: none;" class="no-kthy0201" data-private-display=""></i>
+                      <b></b>
+                    </a>
+                  </span>
+                  <span class="my-jifen0409" data-widget-score="score" data-private-display="" style="display: none;"></span> 
+                </span> 
+              </div>
+              <!--绑定-->
+              <div class="usrTx-bind"></div>
+              <!-- 控制登录注册 -->
+              <div class=""> 
+                <!--登录-->
+                <div data-private-display="" data-elem="topLoginBar" class="usrTx-login"> <a class="login0201" href="javascript:void(0)" data-elem="topLoginPanel" j-login="title" data-private-display="" style="" rseat="tj_login" j-delegate="login"></a> 
+                  <!--登录弹出层 开始-->
+                  <div class="usrTxGeneral-box_hover usrLogin-pop" style="display: none;" data-widget-loginbox="loginbox" data-private-display="block">
+                  </div>
+                  <!--登录弹出层 结束--> 
+                </div>
+                <div class="fl ml5 mr5" data-elem="splitline" style="display: block; color: #e5e5e5">&nbsp;</div>
+                <!--注册-->
+                <div data-private-display="" data-elem="topRegisterBar" class="usrTx-register"> <a j-register="title" href="javascript:void(0)" data-elem="topRegistPanel" class="register0201" data-private-display="" style="" rseat="tj_ regist" j-delegate="regist"></a> 
+                  <!--注册弹出层 开始-->
+                  <div class="usrTxGeneral-box_hover usrTxGeneral-box_hover_reg usrLogin-pop" style="display: none;" data-widget-registbox="registbox" data-private-display="block">
+                  </div>
+                  <!--注册弹出层 结束--> 
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--add vip-->
+          <div class="topNav_vip" data-vipheader-elem="wrapper" id="widget-vipheader" data-vipheader-cls="topNav_vip"><!--追加hover为vip层--> 
+            <a class="gx0201" href="http://serv.vip.iqiyi.com/order/preview.action?pid=a0226bd958843452&fc=a988b1d4503873af" j-playhistory="title" data-vipheader-elem="header" j-data-elem="zjuser" data-private-display="" style="display: block;" rseat="tj_opvip">开通VIP</a>
+            <a class="gx0201" href="http://serv.vip.iqiyi.com/order/pre.action?pid=a232698bebb30ebd" j-playhistory="title" data-vipheader-elem="header" style="display: none;" rseat="续费VIP">续费VIP</a>
+            <a class="gx0201" href="http://serv.vip.iqiyi.com/order/guide.action?pid=a0226bd958843452&fc=a988b1d4503873af" j-playhistory="title" data-vipheader-elem="header" style="display: none;" rseat="续费VIP">续费VIP</a>
+            <a class="gx0201" href="http://vip.iqiyi.com/?fc=a988b1d4503873af" j-playhistory="title" data-vipheader-elem="header" style="display: none;">VIP会员</a>
+            <a class="gx0201" href="http://serv.vip.iqiyi.com/order/preview.action?pid=adb3376b039b970b&fc=a988b1d4503873af" j-playhistory="title" data-vipheader-elem="header" style="display: none;" rseat="续费VIP">续费VIP</a>
+            <div data-vipheader-elem="underframe" style="display:none"></div>
+          </div>
+          <!--add vip end-->
+          <!--上传-->
+          <div class="topNav_upload" id="data-widget-parent" data-class="topNav_upload-nologin" data-widget="navdot" data-dot-cid="a">
+            <div class="icon-qidanTip" data-newicon="a" style="display:none;"> <i class="nav_mag_dot"></i> </div>
+            <a href="javascript:void(0)" data-elem="uploadEntry" data-class="arrow-selected" rseat="tj_upld" class="topNav_upload_title" rseat="tj_upld"><i class="nav_upload_icon" data-newicon="dot"></i>上传<b></b></a>
+            <div style="opacity: 1; display:none" id="data-widget-navuploadfloater" class="topNav_upload_menu">
+              <div class="topNav_upload-inner">
+                <span class="nav-login_arrow"><i class="tip_outer"></i> <i class="tip_inner"></i></span>
+                <ul class="topNav_upload-bd">
+                  <li><a href="javascript:void(0);" data-widget="navdot" data-dot-cid="b" j-delegate="uploadVideo" rseat="tjup_load">上传视频<i style="display:none;" class="nav_mag_dot" data-newicon="b"></i></a></li>
+                  <li><a href="http://www.iqiyi.com/u/editor/" rel="nofollow" data-widget="navdot" data-dot-cid="c" rseat="tjup_editor">制作视频<i style="display:none;" class="nav_mag_dot" data-newicon="c"></i></a></li>
+                  <li><a href="http://www.iqiyi.com/u/channel" rel="nofollow" rseat="tjup_kj" data-navuploadfloater-elem="zone">我的空间</a></li>
+                  <li><a href="http://www.iqiyi.com/u/video" rel="nofollow" rseat="tjup_sp">视频管理</a></li>
+                  <li><a href="http://www.iqiyi.com/u/a/video" rel="nofollow" rseat="tjup_ll">流量分析</a></li>
+                  <li class="no-login"><a href="http://www.iqiyi.com/u/a/money" rel="nofollow" data-elem="checkShare" rseat="tjup_fc">查看分成</a></li>
+                  <li data-elem="navprofile" class="profile"><a href="http://www.iqiyi.com/u/a/profile" rel="nofollow" rseat="tjup_hx">用户画像</a></li>
+                  <li><a href="http://www.iqiyi.com/dv/iPartner.html" rseat="tjup_sq">申请分成</a></li>
+                </ul>
+              </div>
+              <iframe data-elem="bg" class="frameLayer frameLayer_upload"></iframe>
+            </div>
+          </div>
+          <!--上传-->
+          <!-- 客户端下载 -->
+          <div class="topNav_appDL" id="wnav-appdown" data-resp-min="1380" data-widget="navdot" data-dot-cid="app">
+            <a data-widget-appdown="playpage" href="" pubarea="pcltdown_15030501" data-widget-getUrl="layerDownloadUrl" title="下载爱奇艺视频桌面版"
+            class="topNav_appDL_link">下载</a>
+            <div class="icon-qidanTip" data-newicon="app" style="display: none;"> <i class="nav_mag_dot"></i> </div>
+          </div>
+          <!--消息开始-->
+          <div class="topNav_update" id="data-widget-navmessagefloater" data-navmessagefloater-showcls="topNav_update-hover">
+            <!-- 头部 -->
+            <span data-navmessagefloater-elem="title" class="toGeng">
+              <!-- 角标 -->
+              <div style="display:none;" class="icon-qidanTip" data-navmessagefloater-elem="numtip"  data-navmsgtips-icon="icon">
+                <i class="nav_mag_dot"></i>
+              </div>
+              <a href="javascript:void(0)" class="gx" rseat="tj_ favorite">消息<b></b></a>
+            </span>
+            <!-- 弹层 -->
+            <div class="qy_nav_pop" data-navmessagefloater-elem="body">
+              <div class="nav_pop_inner">
+                <!-- 箭头 -->
+                <div class="nav_pop_arrow">
+                  <i class="arrow-inner"></i>
+                  <i class="arrow-outer"></i>
+                </div>
+                <!-- 标题 -->
+                <div class="nav_pop_title">
+                  <ul class="pop_title_list">
+                    <li class="selected" data-navmessagefloater-elem="tabtitle">
+                      <a class="title_item" href="javascript:void(0);" rseat="更新提醒">更新提醒<i class="title_item_tip" style="display:none;" data-navmessagefloater-elem="num">6</i></a>
+                    </li>
+                    <li data-navmessagefloater-elem="tabtitle">
+                      <a class="title_item" href="javascript:void(0);" rseat="与我相关">与我相关<i class="title_item_tip" style="display:none;" data-navmessagefloater-elem="num">6</i></a>
+                    </li>
+                    <li data-navmessagefloater-elem="tabtitle">
+                      <a class="title_item" href="javascript:void(0);" rseat="系统通知">系统通知<i class="title_item_tip" style="display:none;" data-navmessagefloater-elem="num">6</i></a>
+                    </li>
+                  </ul>
+                </div>
+                <!-- 内容 -->
+                <div class="nav_pop_main">
+                  <div class="pop_main_inner" data-navmessagefloater-elem="tabbody">
+                  </div>
+                  <div class="pop_main_inner" style="display:none;" data-navmessagefloater-elem="tabbody">
+                  </div>
+                  <div class="pop_main_inner" style="display:none;" data-navmessagefloater-elem="tabbody">
+                  </div>
+                </div>
+                <!-- 底部 -->
+                <div class="nav_pop_footer clearfix">
+                  <div class="pop_footer_sign"><a href="javascript:void(0);" data-navmessagefloater-elem="markreadbtn" rseat="全部标记已读">全部标记为已读</a></div>
+                  <div class="pop_footer_more"><a data-navmessagefloater-elem="morebtn" rseat="查看更多">查看更多>></a></div>
+                </div>
+              </div>
+            </div>
+            <!-- 垫片 -->
+            <div style="display: block;">
+              <iframe src="about:blank" frameborder="0" style="position: absolute; z-index: 4; top: 32px; left: -156px; width: 300px; height: 375px; background-color: rgb(255, 255, 255); display: none; background-position: initial initial; background-repeat: initial initial;"></iframe>
+            </div>
+          </div>
+          <!--消息结束-->
+          <div class="topNav_update topNav_records topNav_records" data-playhistory-cls="topNav_update" id="widget-playhistory-new">
+            <a class="a1 jilu" onfocus="this.blur();" href="#" data-playhistory-elem="title" rseat="tj_record">播放记录<b></b></a>
+            <div class="qy_nav_pop" data-playhistory-elem="body"  style="position:absolute; right:0;">
+              <div class="nav_pop_inner"  data-playhistory-elem="nulltip" >
+                <div class="noRecorder_tips">您还没有观看任何视频</div>
+                
+                <!-- 箭头 -->
+                <div class="nav_pop_arrow">
+                  <i class="arrow-inner"></i>
+                  <i class="arrow-outer"></i>
+                </div>
+                <!-- 弹层内容 开始 -->
+                <div class="nav_pop_main nav_pop_main-recorder" >
+                  <!-- 时间线 -->
+                  <div class="timeLine" data-playhistory-elem="timeline"></div>
+                  
+                  <!-- 播放记录-登录 -->
+                  <div class="historytips" style="display:none;" data-playhistory-elem="tip" data-name="exactRecord">
+                    <div class="historytips-bg"></div>
+                    <div class="historytips-txt" data-playhistory-elem="tiptext" style="cursor: pointer;">爱奇艺用户将能永久保存播放记录</div>
+                    <a href="javascript:void(0)" class="iconjl-close" j-delegate="historyTip-close" style="display: block;" data-playhistory-elem="tipclose"></a>
+                  </div>
+                  <div class="pop_main_inner">
+                    
+                    <div class="nav_pop_recorderWrap nav_pop_recorderWrap-v2" data-playhistory-elem="content">
+                      <div class="unReader" style="height: 140px; line-height: 24px; overflow: hidden; padding-top: 60px; text-align: center; display: none;" data-playhistory-elem="loadingtip"> <img src="http://www.qiyipic.com/common/images/load.gif"><br>
+                        <span class="j-historyMaskLoading-txt" data-playhistory-elem="loadingtiptext">正在为您读取历史记录</span> </div>
+                      <!--播放记录2.5：筛选操作-->
+                      <div class="allVideo-checkbox fr">
+                        <label class="checkBox-item checkBox-selected" data-playhistory-elem="allvideo" checkcls="checkBox-selected"> 
+                          <i class="site-icons icon-checkBox"></i>
+                          <span class="vl-inline">过滤短视频</span>
+                        </label>
+                      </div>
+                      <div data-playhistory-elem="reloadingtip" class="pop_noItem_inner " style="display:none" >
+                        <div class="no-longVideo">
+                          <em class="fs14 mainColor c-999">云端记录加载失败，请稍后 <a data-playhistory-elem="reloading" href="javascript:void(0);" class="green">刷新重试</a></em>
+                        </div>
+                      </div> 
+                      <div class="pop_noItem_inner dn" data-playhistory-elem="longnulltip">
+                        <div class="no-longVideo">
+                          <em class="fs14 mainColor c-999">暂无长视频（电视剧、纪录片、动漫、综艺、电影）播放记录，<a data-playhistory-elem="readmore" href="javascript:void(0);" class="green">查看全部</a></em>
+                        </div>
+                      </div>
+                      <!-- 播放记录-今天 -->
+                      <div class="nav_pop_recorder"  data-playhistory-elem="today">
+                        <div class="recorder_timeTip">
+                          <i class="icon-timeTipDot">●</i>
+                          <span class="timeTip">今天</span>
+                        </div>
+                        <div class="recorder_list">
+                          <ul class="recorder_list_inner" data-playhistory-elem="todaylist">
+                          </ul>
+                        </div>
+                      </div>
+                      <!-- 播放记录-今天 -->
+                      <div class="nav_pop_recorder" data-playhistory-elem="week">
+                        <div class="recorder_timeTip">
+                          <i class="icon-timeTipDot">●</i>
+                          <span class="timeTip">本周以内</span>
+                        </div>
+                        <div class="recorder_list">
+                          <ul class="recorder_list_inner" data-playhistory-elem="weeklist">               
+                          </ul>
+                        </div>
+                      </div>
+                      <!-- 播放记录-更早 -->
+                      <div class="nav_pop_recorder" data-playhistory-elem="early">
+                        <div class="recorder_timeTip">
+                          <i class="icon-timeTipDot">●</i>
+                          <span class="timeTip">较早</span>
+                        </div>
+                        <div class="recorder_list">
+                          <ul class="recorder_list_inner" data-playhistory-elem="earlylist">                 
+                          </ul>
+                        </div>
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                <!-- 弹层内容 开始 -->
+              </div>
+              <!-- 底部 -->
+              <div class="nav_pop_ft_recorder clearfix">
+                <a data-playhistory-elem="more" href="#" title="查看更多">查看更多&gt;</a>
+              </div>
+            </div>
+            <!-- iframe -->
+            <div data-playhistory-elem="underframe" style="display: block;">
+            </div>
+          </div>
+        </div>
+        <!--new=login end--> 
+        
+        <!--topNavRt search start-->
+        <div>
+          <div data-widget-suggest="suggest" data-suggest-tip="" class="searchbox" data-suggest-focusoutblacklist="iqiyi.com">
+            <div data-widget-suggest="hotList">
+              
+                <a title="美人为馅" href='http://so.iqiyi.com/so/q_美人为馅' target='_blank' style="display:none;" data-suggest-elem="keyword"></a>
+              
+            </div>  
+            <form data-suggest-elem="form">
+              <div data-suggest-elem="container" class="srchDef"> 
+                <span class="in"><input type="text" autocomplete="off" class="navTopTxt" data-suggest-elem="input" rseat="sugtxtrs"></span> 
+                <span class="out"><input type="button" class="navTopBtn" value="" data-suggest-elem="btn" rseat="tj_serch"></span> 
+              </div>
+            </form>
+            <script>
+              (function(){var g=Q.$('[data-widget-suggest="suggest"]');if(g){var f={widget:g,form:Q.$('[data-suggest-elem="form"]'),input:Q.$('[data-suggest-elem="input"]'),btn:Q.$('[data-suggest-elem="btn"]')};var a;var h=f.widget.attr("data-suggest-searchtarget")||"_blank";var e=f.widget.attr("data-suggest-refersource")||"";f.btn.on("click",function(){if(!window.searchSuggestInited&&f.input.value()){b()}});f.input[0].onkeydown=function(i){if(!window.searchSuggestInited&&i.keyCode===13&&!f.input.value()){return false}};var c=[];f.input.on("keyup",function(i){if(!window.searchSuggestInited&&f.input.value()){d()}});if(f.input.value()){d()}function d(){var j="http://so.iqiyi.com/so/q_"+encodeURIComponent(f.input.value());var l={source:"input","sr":Math.floor((new Date()).getTime()*Math.random())};if(c){c.forEach(function(m){f.form.remove(m)})}c=[];for(var k in l){var i=Q.element.Element.create({tagName:"input"});i.css("display","none");i.attr("type","hidden");i.attr("name",k);i.attr("data-elems","input");i.value(decodeURIComponent(l[k]));f.form.append(i);c.push(i)}f.form.attr("target",h);f.form.attr("method","GET");f.form[0].action=j}function b(){var i="http://so.iqiyi.com/so/q_"+encodeURIComponent(f.input.value())+"?source=input&sr="+Math.floor((new Date()).getTime()*Math.random());if(e){i+="&"+e}if(h==="_self"){window.location.href=i}else{window.open(i)}}}})();
+            </script>
+            <div class="soResult" data-suggest-elem="body" style="display: none;">
+              <div class="soResult_con">
+                <ul class="soResult_list" data-suggest-elem="list">
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--topNavRt search end--> 
+      </div>
+      <!--新吸顶登录 开始--> 
+      <!--新吸顶登录 结束--> 
+    </div>
+    <div class="gradientLayer"></div>
+  </div>
+</div>
+<script type="text/javascript">
+  (function() {
+    var a = Q.$("#widget-userregistlogin"),
+        b = a.down("[data-elem='topUserName']"),
+        d = a.down("[data-elem=topLoginPanel]"),
+        e = a.down("[data-elem=topRegistPanel]"),
+        f = a.down("*[data-elem=splitline]"),
+        c = Q.cookie.get("P00002") && JSON.parse(Q.cookie.get("P00002"));
+    if (c && c.pnickname) {
+      c.nickname = c.pnickname;
+    }
+    var g = b.down("#top-username") || b.down("a");
+    c && c.nickname ? (d.hide(), e.hide(), f && f.hide(), !Q.browser.IE8 && Q.browser.IE6 && g.css("width", Math.min(12 * c.nickname.length, 36) + "px"), a.show(), b.show(), g.html(c.nickname)) : (b.hide(), d.html("登录").css("display", ""), e.html("注册").css("display", ""), a.show())
+  })();
+</script>
+        </div>
+        <!--nav end-->
+        <!--巨幕广告-->
+        <div style="display: none;" id="1000000000616" class="full-box"></div>
+        
+ 
+<div style="display: none;" id="adflash" class="full-box"></div>
+<script type="text/javascript">
+  //焦点互动播放器
+  var adData = [{}];
+  var focusAd = {
+    //普通巨幕开始
+
+    
+ //普通巨幕结束
+  };
+
+
+  
+
+  function openFocusAd(c){if(!Q.browser.iPad){if(c&&c.type=="play"){for(var b=0,a=adData.length;b<a;b++){if(adData[b].frame==c.frame){var d=getFlashStr("1004","411",adData[b].url);document.getElementById("1000000000616").innerHTML=d;document.getElementById("1000000000616").style.display="block";return true}}}}return false};
+  if(!Q.browser.iPad&&focusAd.c){var d=new Date();var s=d.getFullYear()+"/"+(parseInt(d.getMonth())+1)+"/"+(parseInt(d.getDate())+1)+" 00:00:00";s=new Date(Date.parse(s))-d;var flag=Q.cookie.get(focusAd.f);var count=Q.cookie.get(focusAd.c);count=count==null?1:count;if(count<=focusAd.u.length*2){var adUrl="";if(!flag){var index=Math.round((focusAd.u.length-1)*Math.random());adUrl=focusAd.u[index];Q.cookie.set(focusAd.f,index,{path:"/",expires:s,domain:"iqiyi.com"})}else{flag=parseInt(flag);if(count%2==0&&focusAd.u.length==2){adUrl=focusAd.u[1-flag]}else{adUrl=focusAd.u[flag]}}var adHtml=getFlashStr(focusAd.w,focusAd.h,adUrl);document.getElementById("1000000000616").innerHTML=adHtml;document.getElementById("1000000000616").style.display="block";Q.cookie.set(focusAd.c,++count,{path:"/",expires:s,domain:"iqiyi.com"})}}function closeCrazy(b){try{Q.external.launchBgAd()}catch(a){}var b="1000000000616";document.getElementById(b).style.display="none";document.getElementById(b).innerHTML=""}function getFlashStr(b,a,e){var c='<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';c+='width="'+b+'" height="'+a+'" align="middle" id="'+Math.random()+'">';c+='<param name="movie" value="'+e+'" />';c+='<param name="quality" value="high" />';c+='<param name="wmode" value="transparent" />';c+='<param name="allowscriptaccess" value="always" />';c+='<embed src="'+e+'" quality="high" width="'+b+'" height="'+a+'" align="middle" wmode="transparent" allowscriptaccess="always" type="application/x-shockwave-flash" /></object>';return c};
+</script>
+        <!--end-->
+        <div id="block-B" data-block-name="焦点图">
+          
+
+
+<div data-js-units="focusLayout" class="mod_focus-index mod_focus-index-v2">
+  <div class="focus-index_inner" style="display: block;" data-widget-indexfocus="indexFocus" data-indexfocus-type="ugc" data-interval="6000" data-indexfocus-trigger="mouseover" id="indexfocus">
+    <!-- 焦点图-图片列表 -->
+    <div class="focus-index_listwrap">
+      <ul class="mod_focus-index_list" data-indexfocus-elem="bigPics" data-indexfocusplaybtn-from="0" data-indexfocusplaybtn-to="-94">
+        
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="background-image: url(http://pic9.qiyipic.com/common/lego/20161107/3332d150a5554122992a5c986b070d41.jpg?src=focustat_0_20130527_1); display: block; opacity: 1;" data-private-display="block">
+                  <a rseat="fcs_0_p1" class="mod_focus-index_item" data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrhaltkd.html" alt="美人为馅：杨蓉白宇悬爱解谜" data-indexfocus-currenttitleelem="美人为馅：杨蓉白宇悬爱解谜"  target="_blank"></a>
+                  
+                </li>
+                
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="background-image: url(http://pic4.qiyipic.com/common/lego/20161104/645d862f337145b5b5059c4ec6afd482.jpg?src=focustat_0_20130527_2); display: none; opacity: 0;" data-private-display="block">
+                  <a rseat="fcs_0_p2" class="mod_focus-index_item" data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrhaqtp1.html" alt="灵魂摆渡3：铁三角全员回归" data-indexfocus-currenttitleelem="灵魂摆渡3：铁三角全员回归" target="_blank"></a>
+                  
+                </li>
+                
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic0.qiyipic.com/common/lego/20161107/13046c4b97364fb0a2be92c6d694d69d.jpg?src=focustat_0_20130527_3">
+                  <a rseat="fcs_0_p3" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrh9swyh.html" alt="梦想的声音：羽泉遇克星弃权" data-indexfocus-currenttitleelem="梦想的声音：羽泉遇克星弃权" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic2.qiyipic.com/common/lego/20161108/21f1374f7b48453fa960f87d968c5d80.jpg?src=focustat_0_20130527_4">
+                  <a rseat="fcs_0_p4" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/v_19rr96zgic.html" alt="樱桃小丸子电影版:邂逅美少年" data-indexfocus-currenttitleelem="樱桃小丸子电影版:邂逅美少年" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic1.qiyipic.com/common/lego/20161108/d795132ca4264b97aaa03e88cabc745b.jpg?src=focustat_0_20130527_5">
+                  <a rseat="fcs_0_p5" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrh9vbad.html" alt="欢脱：陈翔舞台首演逼疯尉迟" data-indexfocus-currenttitleelem="欢脱：陈翔舞台首演逼疯尉迟" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic3.qiyipic.com/common/lego/20161104/f8633fefd49a4262a28ade739abeabf5.jpg?src=focustat_0_20130527_6">
+                  <a rseat="fcs_0_p6" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrh9trjh.html" alt="明星的诞生:萌妹挑战地狱生存" data-indexfocus-currenttitleelem="明星的诞生:萌妹挑战地狱生存" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic6.qiyipic.com/common/lego/20161109/9621decbc59c4ac79ee7b0a92321d5f0.jpg?src=focustat_0_20130527_7">
+                  <a rseat="fcs_0_p7" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/v_19rr9e2gko.html " alt="梦想改造家：脑海中的家" data-indexfocus-currenttitleelem="梦想改造家：脑海中的家" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic1.qiyipic.com/common/lego/20161019/02ec8f65beff4b428f43ffbe95479dcd.jpg?src=focustat_0_20130527_8">
+                  <a rseat="fcs_0_p8" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrhad6yx.html" alt="安托万夫人：盛骏情挑韩艺瑟" data-indexfocus-currenttitleelem="安托万夫人：盛骏情挑韩艺瑟" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic5.qiyipic.com/common/lego/20161031/e31079dd00ff4d5ba53b76b2e308788e.jpg?src=focustat_0_20130527_9">
+                  <a rseat="fcs_0_p9" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrh9zcq1.html" alt="黑名单3：直击罪恶逆境求生" data-indexfocus-currenttitleelem="黑名单3：直击罪恶逆境求生" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+        
+          
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li style="display: none; opacity: 0;" data-private-display="block" data-indexfocus-lazyimg="http://pic2.qiyipic.com/common/lego/20161026/aee4ebd0bfed49eb827946cdaabbcc1c.jpg?src=focustat_0_20130527_10">
+                  <a rseat="fcs_0_p10" class="mod_focus-index_item"  data-indexfocus-elem="currentPlayPage" href="http://www.iqiyi.com/a_19rrhbd4i9.html" alt="幻城：梨落岚裳灵魂互换" data-indexfocus-currenttitleelem="幻城：梨落岚裳灵魂互换" target="_blank"></a>
+                  
+                </li>
+              
+            
+          
+                  
+      </ul>
+    </div>
+    <!-- 焦点图-文字列表 -->
+    <div class="focus-index_thumbnailWrap">
+      <div class="focus-index_thumbnailBg"></div>
+      <div class="focus-index_thumbnail">
+        <div class="index_thumbnail_inner">
+          <ul class="thumbnail_list" data-indexfocus-elem="smallPics">
+            
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="1" class="selected">
+                  
+                  <a rseat="fcs_0_t1" href="http://www.iqiyi.com/a_19rrhaltkd.html" class="thumbnail_item " alt="美人为馅：杨蓉白宇悬爱解谜" target="_blank">美人为馅：杨蓉白宇悬爱解谜</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="2" >
+                  
+                  <a rseat="fcs_0_t2" href="http://www.iqiyi.com/a_19rrhaqtp1.html" class="thumbnail_item " alt="灵魂摆渡3：铁三角全员回归" target="_blank">灵魂摆渡3：铁三角全员回归</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="3" >
+                  
+                  <a rseat="fcs_0_t3" href="http://www.iqiyi.com/a_19rrh9swyh.html" class="thumbnail_item " alt="梦想的声音：羽泉遇克星弃权" target="_blank">梦想的声音：羽泉遇克星弃权</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="4" >
+                  
+                  <a rseat="fcs_0_t4" href="http://www.iqiyi.com/v_19rr96zgic.html" class="thumbnail_item " alt="樱桃小丸子电影版:邂逅美少年" target="_blank">樱桃小丸子电影版:邂逅美少年</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="5" >
+                  
+                  <a rseat="fcs_0_t5" href="http://www.iqiyi.com/a_19rrh9vbad.html" class="thumbnail_item " alt="欢脱：陈翔舞台首演逼疯尉迟" target="_blank">欢脱：陈翔舞台首演逼疯尉迟</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="6" >
+                  
+                  <a rseat="fcs_0_t6" href="http://www.iqiyi.com/a_19rrh9trjh.html" class="thumbnail_item " alt="明星的诞生:萌妹挑战地狱生存" target="_blank">明星的诞生:萌妹挑战地狱生存</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="7" >
+                  
+                  <a rseat="fcs_0_t7" href="http://www.iqiyi.com/v_19rr9e2gko.html " class="thumbnail_item " alt="梦想改造家：脑海中的家" target="_blank">梦想改造家：脑海中的家</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="8" >
+                  
+                  <a rseat="fcs_0_t8" href="http://www.iqiyi.com/a_19rrhad6yx.html" class="thumbnail_item " alt="安托万夫人：盛骏情挑韩艺瑟" target="_blank">安托万夫人：盛骏情挑韩艺瑟</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="9" >
+                  
+                  <a rseat="fcs_0_t9" href="http://www.iqiyi.com/a_19rrh9zcq1.html" class="thumbnail_item " alt="黑名单3：直击罪恶逆境求生" target="_blank">黑名单3：直击罪恶逆境求生</a>
+                </li>
+              
+            
+              
+                
+                
+                
+                
+                    
+                <li data-indexfocus-index="10" >
+                  
+                  <a rseat="fcs_0_t10" href="http://www.iqiyi.com/a_19rrhbd4i9.html" class="thumbnail_item " alt="幻城：梨落岚裳灵魂互换" target="_blank">幻城：梨落岚裳灵魂互换</a>
+                </li>
+              
+             
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+        <div id="block-C" data-block-name="二级导航">
+          
+
+
+<div class="menuListNew mb30 menuListNew-change navboxWx">
+  <div class="site-main">
+    <div class="menuListNew_wrap">
+      <!-- 导航文字列表 -->
+      
+      <div class="mod-navPop clearfix">
+        <div class="navPop_bd clearfix">
+          <ul class="nav_one clearfix">
+            
+              <li><a rseat="娱乐" href="http://yule.iqiyi.com" >娱乐</a></li>
+            
+              <li><a rseat="体育" href="http://sports.iqiyi.com" >体育</a></li>
+            
+              <li><a rseat="资讯" href="http://news.iqiyi.com" >资讯</a></li>
+            
+          </ul>
+          <ul class="nav_two clearfix">
+            
+
+              <li ><a rseat="电影" href="http://www.iqiyi.com/dianying/" >电影</a></li>
+            
+
+              <li class="nav_3z"><a rseat="电视剧" href="http://www.iqiyi.com/dianshiju/"  data-widget="navdot" data-dot-cid="5">电视剧<i style="display:none;" class="tip_dot" data-newicon="dot"></i></a></li>
+            
+
+              <li ><a rseat="片花" href="http://trailer.iqiyi.com" >片花</a></li>
+            
+
+              <li class="nav_3z"><a rseat="综艺" href="http://www.iqiyi.com/zongyi/" >综艺</a></li>
+            
+
+              <li ><a rseat="网络电影" href="http://www.iqiyi.com/weidianying/" >网络电影</a></li>
+            
+
+              <li class="nav_3z"><a rseat="脱口秀" href="http://talkshow.iqiyi.com/" >脱口秀</a></li>
+            
+          </ul>
+          <ul class="nav_three clearfix">
+            
+              <li><a rseat="动漫" href="http://www.iqiyi.com/dongman/" >动漫</a></li>
+            
+              <li><a rseat="生活" href="http://life.iqiyi.com" >生活</a></li>
+            
+              <li><a rseat="少儿" href="http://child.iqiyi.com/" >少儿</a></li>
+            
+              <li><a rseat="母婴" href="http://baby.iqiyi.com" >母婴</a></li>
+            
+              <li><a rseat="教育" href="http://edu.iqiyi.com/" >教育</a></li>
+            
+              <li><a rseat="健康" href="http://www.iqiyi.com/health/" >健康</a></li>
+            
+          </ul>
+          <ul class="nav_four clearfix">   
+            
+              <li><a rseat="音乐" href="http://music.iqiyi.com" >音乐</a></li>
+            
+              <li><a rseat="搞笑" href="http://fun.iqiyi.com" >搞笑</a></li>
+            
+              <li><a rseat="时尚" href="http://f.iqiyi.com" >时尚</a></li>
+            
+              <li><a rseat="原创" href="http://dv.iqiyi.com" >原创</a></li>
+            
+              <li><a rseat="旅游" href="http://www.iqiyi.com/lvyou/" >旅游</a></li>
+            
+              <li><a rseat="拍客" href="http://paike.iqiyi.com" >拍客</a></li>
+                                           
+          </ul>
+          <ul class="nav_five clearfix">                
+            
+
+              <li ><a rseat="财经" href="http://business.iqiyi.com" >财经</a></li>
+            
+
+              <li class="nav_3z"><a rseat="军事" href="http://mil.iqiyi.com" >军事</a></li>
+            
+
+              <li ><a rseat="科技" href="http://tech.iqiyi.com" >科技</a></li>
+            
+
+              <li class="nav_3z"><a rseat="公益" href="http://gongyi.iqiyi.com/" >公益</a></li>
+            
+
+              <li ><a rseat="汽车" href="http://auto.iqiyi.com" >汽车</a></li>
+            
+
+              <li class="nav_3z"><a rseat="纪录片" href="http://www.iqiyi.com/jilupian/" >纪录片</a></li>
+              
+          </ul>
+          <ul class="nav_six clearfix">
+            
+              <li ><a rseat="风云榜" href="http://top.iqiyi.com" >风云榜</a></li>
+              
+              <li ><a rseat="奇秀直播" href="http://x.pps.tv/"  target="_blank">奇秀直播</a></li>
+              
+              <li ><a rseat="全网影视" href="http://v.iqiyi.com"  target="_blank">全网影视</a></li>
+              
+              <li id="nav-live"><a rseat="直播中心" href="http://www.iqiyi.com/live/" >直播中心</a></li>
+              
+                <script> 
+                  (function(dlive){
+                    if(dlive&&Q.browser.iPad){dlive.className = 'menuLink-pad';}
+                  })(document.getElementById('nav-live'));
+                </script>
+              
+              <li ><a rseat="全网搜索" href="http://so.iqiyi.com" >全网搜索</a></li>
+              
+              <li ><a rseat="应用商店" href="http://store.iqiyi.com"  target="_blank">应用商店</a></li>
+                         
+          </ul>
+          <ul class="nav_seven clearfix">
+            
+              
+              <li >
+                <a rseat="商城" href="http://mall.iqiyi.com?odfrm=AQY01"  target="_blank">商城
+                </a>
+                
+              </li>
+            
+              
+              <li class="nav_3z">
+                <a rseat="大头" href="http://datou.iqiyi.com/" >大头
+                </a>
+                
+              </li>
+            
+              
+              <li >
+                <a rseat="文学" href="http://wenxue.iqiyi.com"  target="_blank">文学
+                </a>
+                
+              </li>
+            
+              
+              <li >
+                <a rseat="游戏视频" href="http://games.iqiyi.com/" >游戏视频
+                </a>
+                
+              </li>
+            
+              
+              <li class="nav_3z">
+                <a rseat="VIP会员" href="http://vip.iqiyi.com/"  class="nav_link-vip">
+                    <i class="icon-vip"></i><span class="nav_linkTx-e">VIP</span><span class="nav_linkTx-c">会员</span>
+                  
+                </a>
+                
+                  <a rseat="爱频道" href="http://aipindao.iqiyi.com/" class="nav_link-pd" >爱频道</a>
+                
+              </li>
+            
+              
+              <li >
+                <a rseat="广告" href="http://www.iqiyi.com/ad/" >广告
+                </a>
+                
+              </li>
+            
+              
+              <li >
+                <a rseat="游戏中心" href="http://g.iqiyi.com/" >游戏中心
+                </a>
+                
+              </li>
+            
+              
+              <li class="nav_3z">
+                <a rseat="VR" href="http://vr.iqiyi.com/" >VR
+                </a>
+                
+              </li>
+            
+              
+              <li >
+                <a rseat="个人中心" href="http://www.iqiyi.com/u" >个人中心
+                </a>
+                
+              </li>
+              
+          </ul>
+          <!-- vip新结构  -->
+          <ul class="nav_eight nav_eight-vip clearfix">
+            <li>
+              <a href="http://vip.iqiyi.com/?fc=b4df9faa4b31aec4" class="nav_link-vipNew">
+                <i class="icon-vipGold"></i>
+                <span class="nav_link-vipTx">VIP会员</span>
+              </a>
+            </li>
+          </ul>
+          <!-- vip新结构 end  -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+      </div>
+      <!--content-->
+      <div class="wrapper-content clearfix mb20">
+        <div class="site-main" data-widget-maincontent="maincontent">
+          <div class="wrapper-cols">
+            <div class="qy-col col-2 pr" id="block-D" data-block-name="焦点">
+              
+
+
+<div class="site-title news-title-large ml20">
+  <div>
+    <div class="site-title_right"></div>
+    <div class="site-title_left">
+      <h3 class="today-focus"><a href="http://www.iqiyi.com/news/"><span rseat="jrjd">今日焦点</span><span class="icon-more" rseat="爱奇艺_焦点更多" style="padding-left:7px;">更多<em>&gt;</em></span></a></h3>
+      <a href="http://sichuan.iqiyi.com/" target="_blank" class="sc-link dn" data-site="四川,sichuan,sc-link,http://sichuan.iqiyi.com/;浙江,zhejiang,zhj-link,http://www.iqiyi.com/zhejiang.html" id="siChuanNav" rseat="sichuan">四川站</a>
+      <div class="tipsWonder" style="overflow: hidden; width: 77px; height: 26px;" data-widget-expandable="expandableV2" data-expandable-target="target" data-expandable-targetstate="fold" data-expandable-foldheight="26" data-expandable-foldwidth="77" data-expandable-expandheight="207" data-expandable-expandwidth="120" data-expandable-autoclosetarget="15000" data-expandable-expandclassfortarget="tipsWonder-hover" data-expandable-initialheight="26" data-expandable-initialwidth="77" data-expandable-foldhandle="foldhandle" data-expandable-foldmethod="mouseleave">
+        <a href="javascript:void(0)" title="精彩" rseat="jingcai" class="tips_btn" data-expandable-expandhandle="expandhandle" data-expandable-expandmethod="mouseenter,iclick" data-expandable-expandclassforexpand="">
+          <i class="site-icons icon-star"></i>独播
+        </a>
+        <div class="tipsWonder_arrow">
+          <i class="arrow-inner"></i>
+          <i class="arrow-outer"></i>
+        </div>
+        <ul class="tipsWonder_list">
+          
+            <li class="firstItem"><a href="http://www.iqiyi.com/a_19rrh9swyh.html" title="梦想的声音" target="iqiyiplay" rseat="梦想的声音">梦想的声音</a></li>
+          
+            <li class=""><a href="http://www.iqiyi.com/a_19rrhaqtp1.html" title="灵魂摆渡3" target="iqiyiplay" rseat="灵魂摆渡3">灵魂摆渡3</a></li>
+          
+            <li class=""><a href="http://www.iqiyi.com/a_19rrhaltkd.html" title="美人为馅" target="iqiyiplay" rseat="美人为馅">美人为馅</a></li>
+          
+            <li class=""><a href="http://www.iqiyi.com/a_19rrh9trg1.html" title="了不起的孩子" target="iqiyiplay" rseat="了不起的孩子">了不起的孩子</a></li>
+          
+            <li class=""><a href="http://www.iqiyi.com/a_19rrh9o47p.html" title="爱上超模第3季" target="iqiyiplay" rseat="爱上超模第3季">爱上超模第3季</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mod-newsList pl20 mb10">
+  <div class="newsList newsList-more">
+    <h2 class="news-title textOverflow">
+      		
+      <a href="http://www.iqiyi.com/v_19rr9e6u08.html?list=19rro8u5n6" title='美国大选结果预计北京时间今日下午揭晓' target="iqiyiplay" rseat="f1-1"><span>美国大选结果预计北京时间今日下午揭晓</span></a>
+    </h2>
+    
+    
+    
+  </div>
+  <div class="mod-txtList">
+    
+    <div class="pt5 fs16 clearfix txtList_col1">
+      <ul class="txt-item fl">
+        
+        
+        <li>
+          <i class="site-icons icon-video-listMark"></i>
+            <a href="http://www.iqiyi.com/v_19rr9e5qio.html" title='韩国检方搜查三星总部' target="iqiyiplay">
+              <span class="txt" title='韩国检方搜查三星总部' rseat="f2-1">韩国检方搜查三星总部&nbsp;</span>
+            </a>
+          
+            <a href="http://www.iqiyi.com/v_19rr9e6tuc.html" title='朴槿惠将缺席APEC会议' target="iqiyiplay">
+              <span class="txt" title='朴槿惠将缺席APEC会议' rseat="f2-2">朴槿惠将缺席APEC会议</span>
+            </a>
+          
+        </li>
+        
+        
+        <li>
+          <i class="site-icons icon-video-listMark"></i>
+            <a href="http://www.iqiyi.com/v_19rr9czq8w.html" title='中国人首次在太空跑步' target="iqiyiplay">
+              <span class="txt" title='中国人首次在太空跑步' rseat="f3-1">中国人首次在太空跑步&nbsp;</span>
+            </a>
+          
+            <a href="http://www.iqiyi.com/v_19rr9e6jac.html" title='双11快递预计超10亿件' target="iqiyiplay">
+              <span class="txt" title='双11快递预计超10亿件' rseat="f3-2">双11快递预计超10亿件</span>
+            </a>
+          
+        </li>
+        <li>
+          <i class="site-icons icon-video-listMark"></i>
+            <a href="http://www.iqiyi.com/v_19rr9e6byk.html" title='日媒警告福原爱“勿卖国”' target="iqiyiplay">
+              <span class="txt" title='日媒警告福原爱“勿卖国”' rseat="f4-1">日媒警告福原爱“勿卖国”&nbsp;</span>
+            </a>
+          
+            <a href="http://www.iqiyi.com/v_19rr9e6jp4.html" title='6岁男童掉入40米深枯井' target="iqiyiplay">
+              <span class="txt" title='6岁男童掉入40米深枯井' rseat="f4-2">6岁男童掉入40米深枯井</span>
+            </a>
+          
+        </li>
+        
+        
+          <li>
+            <i class="site-icons icon-video-listMark"></i>
+              <a href="http://www.iqiyi.com/v_19rr9e5hp8.html" title='八旬老人被遗弃美国机场 曾为孙女上学卖掉旧居' target="iqiyiplay">
+                <span class="txt" title='八旬老人被遗弃美国机场 曾为孙女上学卖掉旧居' rseat="f5-1">八旬老人被遗弃美国机场 曾为孙女上学卖掉旧居&nbsp;</span>
+              </a>
+            
+          </li>
+        
+          <li>
+            <i class="site-icons icon-video-listMark"></i>
+              <a href="http://www.iqiyi.com/news/rdzthzym.html" title='观点pk:' target="iqiyiplay">
+                <span class="txt" title='观点pk:' rseat="f6-1">观点pk:&nbsp;</span>
+              </a>
+            
+              <a href="http://www.iqiyi.com/news/qrlaxrm.html" title='小伙光棍节前恋爱保险 你怎么看？' target="iqiyiplay">
+                <span class="txt" title='小伙光棍节前恋爱保险 你怎么看？' rseat="f6-2">小伙光棍节前恋爱保险 你怎么看？</span>
+              </a>
+            
+          </li>
+        
+          <li>
+            <i class="site-icons icon-video-listMark"></i>
+              <a href="http://www.iqiyi.com/v_19rr9cz9yw.html" title='女孩高空抛物缓解压力' target="iqiyiplay">
+                <span class="txt" title='女孩高空抛物缓解压力' rseat="f7-1">女孩高空抛物缓解压力&nbsp;</span>
+              </a>
+            
+              <a href="http://www.iqiyi.com/v_19rr9e47b8.html" title='麦霸男偷音响过唱歌瘾' target="iqiyiplay">
+                <span class="txt" title='麦霸男偷音响过唱歌瘾' rseat="f7-2">麦霸男偷音响过唱歌瘾</span>
+              </a>
+            
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="wrapper-piclist">
+  <ul class="site-piclist site-piclist-180101">
+    
+      <li>
+        
+        <div class="site-piclist_pic"> 
+          <a class="site-piclist_pic_link" href="http://www.iqiyi.com/v_19rr9cz3zs.html" target="iqiyiplay" data-qidanadd-zizhi="0" data-qidanadd-exclusive="0" data-qidanadd-vip="" data-widget-qidanadd="qidanadd" data-qidanadd-tvid="565303700" data-qidanadd-channelid="1" data-qidanadd-hoverclass="show-favorites" data-qidanadd-hovertext="collect"> 
+            <img width="100%" height="100%" src='http://m.qiyipic.com/common/lego/20161109/51a1df8925b544c0bec29d007f521bcd.gif' alt="炸遍一片天!世界最大的一发烟花" title='炸遍一片天!世界最大的一发烟花' rseat="f8-1">
+            <div class="wrapper-listTitle" style="display:none">
+              <div class="mod-listTitle"> 
+                <span class="mod-listTitle_right">00:00:48</span>
+                <div class="mod-listTitle_left">
+                  <p class="textOverflow">炸遍一片天!世界最大的一发烟花</p>
+                </div>
+              </div>
+            </div>
+            
+              <p class="site-piclist_icons-lt">
+                
+              </p>
+              <p class="site-piclist_icons-lb">
+                
+              </p>
+              <p class="site-piclist_icons"> 
+                
+                  <i class="site-icons icon-viedo-favorites" data-qidanadd-ele="sub" data-qidanadd-confirmclass="icon-viedo-favorites-confirm" rseat="shou1">收藏</i>
+                
+              </p>
+            
+          </a> 
+        </div>
+        <div class="site-piclist_info">
+          <p class="site-piclist_info_title"><a href="http://www.iqiyi.com/v_19rr9cz3zs.html" title='壮观！世界最大烟花绽放' target="iqiyiplay" rseat="f9-1">壮观！世界最大烟花绽放</a></p>
+        </div>
+      </li>
+    
+      <li>
+        
+        <div class="site-piclist_pic"> 
+          <a class="site-piclist_pic_link" href="http://www.iqiyi.com/v_19rr9d0eys.html" target="iqiyiplay" > 
+            <img width="100%" height="100%" src='http://pic9.qiyipic.com/image/20161109/9e/e4/v_111267738_m_601_180_101.jpg' alt="扒神嗨评：男子养29头狼嘴对嘴吃生肉同睡觉" title='扒神嗨评：男子养29头狼嘴对嘴吃生肉同睡觉' rseat="f8-2">
+            <div class="wrapper-listTitle" style="display:none">
+              <div class="mod-listTitle"> 
+                <span class="mod-listTitle_right">00:01:02</span>
+                <div class="mod-listTitle_left">
+                  <p class="textOverflow">扒神嗨评：男子养29头狼嘴对嘴吃生肉同睡觉</p>
+                </div>
+              </div>
+            </div>
+            
+          </a> 
+        </div>
+        <div class="site-piclist_info">
+          <p class="site-piclist_info_title"><a href="http://www.iqiyi.com/v_19rr9d0eys.html" title='男子养29头狼用嘴喂生肉' target="iqiyiplay" rseat="f9-2">男子养29头狼用嘴喂生肉</a></p>
+        </div>
+      </li>
+    
+  </ul>
+</div>
+            </div>
+            <div class="qy-col col-2 pr" id="block-E" data-block-name="娱乐看点">
+              
+
+<div class="mod-picList1-380252 pl20 mb10 widget-slidewidget-0" data-slide-usedefaultoffset="true" data-slide-rbtnclass="disabled" data-slide-lbtnclass="disabled"
+data-slide-enablescroll="true" data-slide-itemfocusclass="noclass" data-slide-step="1" data-slide-autoplay="true" data-slide-interval="5000" 
+data-slide-disp="1" data-slide-dura="0" data-slide-disablewheel="true" data-slide-circle="disableForOne" data-slide-itemwidth="380" data-slide-style="marginLeft">
+  <div class="piclist-scroll-380" data-slide-elem="content" data-videoslide-elem="content">
+    <ul data-slide-elem="list" class="site-piclist site-piclist-380252" style="">
+      
+        <li class="site-piclist_pic">
+          <a class="site-piclist_pic_link" href="http://www.iqiyi.com/v_19rrh1wxl7.html?list=19rrkpx56a" title="刘恺威王鸥深夜房中独处 共度4小时至凌晨" target="iqiyiplay">
+            <img width="100%" height="100%" src="http://pic3.qiyipic.com/common/lego/20161109/0552be7636854f3a8bb4aaeebf17d69a.jpg" alt="刘恺威王鸥深夜房中独处 共度4小时至凌晨" title="刘恺威王鸥深夜房中独处 共度4小时至凌晨" rseat="img1">
+            <div class="wrapper-listTitle">
+              <div class="mod-listTitle"> <i class="icon-play-greenV fl"></i>
+                <div class="mod-listTitle_left">
+                  <p class="textOverflow fs16" rseat="ti1"> 刘恺威王鸥深夜房中独处 共度4小时至凌晨 </p>
+                </div>
+              </div>
+            </div>
+          </a>
+        </li>
+      
+        <li class="site-piclist_pic">
+          <a class="site-piclist_pic_link" href="http://www.iqiyi.com/v_19rr9e4q4o.html" title="《锦绣未央》宫变风云 唐嫣女王炼成记" target="iqiyiplay">
+            <img width="100%" height="100%" src=" http://pic0.qiyipic.com/common/20161109/未标题-2.jpg" alt="《锦绣未央》宫变风云 唐嫣女王炼成记" title="《锦绣未央》宫变风云 唐嫣女王炼成记" rseat="img2">
+            <div class="wrapper-listTitle">
+              <div class="mod-listTitle"> <i class="icon-play-greenV fl"></i>
+                <div class="mod-listTitle_left">
+                  <p class="textOverflow fs16" rseat="ti2"> 《锦绣未央》宫变风云 唐嫣女王炼成记 </p>
+                </div>
+              </div>
+            </div>
+          </a>
+        </li>
+      
+    </ul>
+    
+      <div class="piclist_btnLeft" data-slide-elem="pbtn" class="disabled">
+        <a href="javascript:;" rseat="leftBtn"></a>
+      </div>
+      <div class="piclist_btnRight" data-slide-elem="nbtn">
+        <a href="javascript:;" rseat="rightBtn"></a>
+      </div>
+    
+  </div>
+</div>
+<div class="mod-txtList pl20">
+  <div class="txtList-type">
+    <ul class="txtList">        
+      
+      
+          
+        
+      
+          
+        
+      
+          
+        
+      
+          
+        
+      
+     
+      
+      <li>
+         <i class="site-icons icon-video-listMark"></i>
+        
+          <a href="http://www.iqiyi.com/v_19rr9d3e94.html?list=19rrkpx56a" target="iqiyiplay" title='刘恺威方回应"密会":对剧本' class="mr5" rseat="list1">刘恺威方回应"密会":对剧本</a>
+        
+          <a href="http://www.iqiyi.com/v_19rr9cz0ls.html?list=19rrkpx56a" target="iqiyiplay" title='独家:王鸥方称怎可能' class="mr5" rseat="list2">独家:王鸥方称怎可能</a>
+        
+      </li>
+      <li>
+         <i class="site-icons icon-video-listMark"></i>
+        
+          <a href="http://www.iqiyi.com/v_19rr9e4kvs.html?list=19rrksmrg2" target="iqiyiplay" title='张靓颖大婚冯轲示爱' class="mr5" rseat="list3">张靓颖大婚冯轲示爱</a>
+        
+          <a href="http://www.iqiyi.com/v_19rr9e4lng.html?list=19rrkr3uwq" target="iqiyiplay" title='钟丽缇婚礼张伦硕深情表白' class="mr5" rseat="list4">钟丽缇婚礼张伦硕深情表白</a>
+        
+      </li>
+      <li>
+        <i class="site-icons icon-video-listMark"></i>
+        
+          <a href="http://www.iqiyi.com/v_19rr9cyp18.html" target="iqiyiplay" title='昆凌自曝25岁难生3胎' class="mr5" rseat="list5">昆凌自曝25岁难生3胎</a>
+        
+          <a href="http://www.iqiyi.com/v_19rr9czzzw.html" target="iqiyiplay" title='陈赫生日邓超送恶魔果实' class="mr5" rseat="list6">陈赫生日邓超送恶魔果实</a>
+        
+      </li>
+      <li>
+         <i class="site-icons icon-video-listMark"></i>
+        
+          <a href="http://www.iqiyi.com/v_19rr9dumag.html" target="iqiyiplay" title='陈奕迅留在你身边' class="mr5" rseat="list7">陈奕迅留在你身边</a>
+        
+          <a href="http://www.iqiyi.com/shishang/fashionpopcorn.html" target="iqiyiplay" title='范冰冰刘嘉玲红毯“拼刺刀”' class="mr5" rseat="list8">范冰冰刘嘉玲红毯“拼刺刀”</a>
+        
+      </li>
+      <li>
+         <i class="site-icons icon-video-listMark"></i>
+        
+          <a href="http://t.cr-nielsen.com/hat?_t=r&type=clk&hat_id=MTM3JjI0MiY4MTAwMTYwOCYxMTE0NTM2JjMxNTM1MTg5JstB&_l=aHR0cDovL3d3dy5pcWl5aS5jb20vd18xOXJ1Zm0wYnF4Lmh0bWw=&_z=m&rnd=45350834" target="iqiyiplay" title='广告：杨洋带你穿越双11' class="mr5" rseat="list9">广告：杨洋带你穿越双11</a>
+        
+          <a href="http://mall.iqiyi.com/kszt/masfeast20161101.html?odfrm=AQYSY" target="iqiyiplay" title='蟹壳黄的十八般功夫' class="mr5" rseat="list10">蟹壳黄的十八般功夫</a>
+        
+      </li>
+    </ul>
+  </div>
+</div>
+
+            </div>
+            <div id="block-F" data-block-name="剧场">
+              
+
+
+  
+      
+      
+    
+  <div class="qy-col col-1  qy980-hidden">
+    <div class="wrapper-piclist wrapper-piclist-auto adList-180147">
+      <ul class="site-piclist site-piclist-180101">
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rr9dznds.html?list=19rrkr1v02" class="site-piclist_pic_link" title="萧敬腾炫球技失败倒地不起" target="_blank" > 
+                    <img width="100%" height="100%" title="萧敬腾炫球技失败倒地不起" alt="萧敬腾炫球技失败倒地不起" src="http://pic5.qiyipic.com/common/20161109/1f08d39f736c4d7da3531c4cc7052f2f.jpg" rseat="img1">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rr9dznds.html?list=19rrkr1v02" target="_blank" title="萧敬腾炫球技失败倒地不起" alt="萧敬腾炫球技失败倒地不起" target="_blank" rseat="ti1">萧敬腾炫球技失败倒地不起</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rr9dtrxk.html?list=19rrksmsu2" class="site-piclist_pic_link" title="最快赛道飙车吓到叫破天际" target="_blank" > 
+                    <img width="100%" height="100%" title="最快赛道飙车吓到叫破天际" alt="最快赛道飙车吓到叫破天际" src="http://pic9.qiyipic.com/common/20161109/0cde4d3abbbc4951822f7e7034f2a550.jpg" rseat="img2">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rr9dtrxk.html?list=19rrksmsu2" target="_blank" title="最快赛道飙车吓到叫破天际" alt="最快赛道飙车吓到叫破天际" target="_blank" rseat="ti2">最快赛道飙车吓到叫破天际</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/kszt/ycwlstjm.html" class="site-piclist_pic_link" title="优秀网络视听节目展播" target="_blank" > 
+                    <img width="100%" height="100%" title="优秀网络视听节目展播" alt="优秀网络视听节目展播" src="http://pic0.qiyipic.com/common/20161031/203f7e794bfd4d66946996e80b3a0883.jpg" rseat="img3">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/kszt/ycwlstjm.html" target="_blank" title="优秀网络视听节目展播" alt="优秀网络视听节目展播" target="_blank" rseat="ti3">优秀网络视听节目展播</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+      </ul>
+    </div>
+  </div>
+
+   
+      
+      
+    
+  <div class="qy-col col-1 ">
+    <div class="wrapper-piclist wrapper-piclist-auto adList-180147">
+      <ul class="site-piclist site-piclist-180101">
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/kszt/XXSBJLZQHJS.html " class="site-piclist_pic_link" title="学习十八届六中全会精神" target="_blank" > 
+                    <img width="100%" height="100%" title="学习十八届六中全会精神" alt="学习十八届六中全会精神" src="http://pic3.qiyipic.com/common/20161105/2e641211277e4c90bae1c1f7d10ed9a3.jpg" rseat="img4">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/kszt/XXSBJLZQHJS.html " target="_blank" title="学习十八届六中全会精神" alt="学习十八届六中全会精神" target="_blank" rseat="ti4">学习十八届六中全会精神</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rr9dmw3g.html?list=19rrklayim " class="site-piclist_pic_link" title="撒娇卖萌宠物最好命" target="_blank" > 
+                    <img width="100%" height="100%" title="撒娇卖萌宠物最好命" alt="撒娇卖萌宠物最好命" src="http://pic5.qiyipic.com/common/20161109/e293211d3d024301b021b74699ddfff8.jpg" rseat="img5">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rr9dmw3g.html?list=19rrklayim " target="_blank" title="撒娇卖萌宠物最好命" alt="撒娇卖萌宠物最好命" target="_blank" rseat="ti5">撒娇卖萌宠物最好命</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+          
+          
+          
+              <li><div class="sideAdPo">
+     <div class="ad-flash-index_layout  sideAdWrap" id="1000000000202" style="display: none; height: 169px;"></div></div>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rr9f11fs.html?list=19rrkpxl0m" class="site-piclist_pic_link" title="Lady Gaga突破尺度维秘T台 " target="_blank" > 
+                    <img width="100%" height="100%" title="Lady Gaga突破尺度维秘T台 " alt="Lady Gaga突破尺度维秘T台 " src="http://pic1.qiyipic.com/common/20161109/6b40f61b3282469a9a55ab1a4abe4587.jpg" rseat="img6">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rr9f11fs.html?list=19rrkpxl0m" target="_blank" title="Lady Gaga突破尺度维秘T台 " alt="Lady Gaga突破尺度维秘T台 " target="_blank" rseat="ti6">Lady Gaga突破尺度维秘T台 </a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+      </ul>
+    </div>
+  </div>
+
+  
+      
+      
+    
+  <div class="qy-col col-1  qy980-hidden qy1180-hidden">
+    <div class="wrapper-piclist wrapper-piclist-auto adList-180147">
+      <ul class="site-piclist site-piclist-180101">
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rr9dzws4.html" class="site-piclist_pic_link" title="名著村光棍节脱单一百式" target="_blank" > 
+                    <img width="100%" height="100%" title="名著村光棍节脱单一百式" alt="名著村光棍节脱单一百式" src="http://pic1.qiyipic.com/common/20161109/194089611cdf40a489c7c24b38bcfc91.jpg" rseat="img7">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rr9dzws4.html" target="_blank" title="名著村光棍节脱单一百式" alt="名著村光棍节脱单一百式" target="_blank" rseat="ti7">名著村光棍节脱单一百式</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rr9dwx1g.html?list=19rrkpwh3a" class="site-piclist_pic_link" title="冬日里甜蜜的婚礼进行曲" target="_blank" > 
+                    <img width="100%" height="100%" title="冬日里甜蜜的婚礼进行曲" alt="冬日里甜蜜的婚礼进行曲" src="http://pic5.qiyipic.com/common/20161109/7f78fd5eef09480293571f348c2cc919.jpg" rseat="img8">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rr9dwx1g.html?list=19rrkpwh3a" target="_blank" title="冬日里甜蜜的婚礼进行曲" alt="冬日里甜蜜的婚礼进行曲" target="_blank" rseat="ti8">冬日里甜蜜的婚礼进行曲</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+          
+          
+          
+              <li>
+                <div class="site-piclist_pic">
+                  <a href="http://www.iqiyi.com/v_19rrkz8qac.html?list=19rrkpx0ua" class="site-piclist_pic_link" title="性感Bra 从现在开始" target="_blank" > 
+                    <img width="100%" height="100%" title="性感Bra 从现在开始" alt="性感Bra 从现在开始" src="http://pic8.qiyipic.com/common/20161109/f9e80dc7cccf4615aca52744467d4fc4.jpg" rseat="img9">
+                    <div class="wrapper-listTitle">
+                      <div class="mod-listTitle">
+                        
+                        
+                      </div>
+                    </div>
+                    
+                  </a> 
+                </div>
+                <div class="site-piclist_info">
+                  <div class="site-piclist_info_title">                    
+                    
+                    <div class="adList_adContent"><a href="http://www.iqiyi.com/v_19rrkz8qac.html?list=19rrkpx0ua" target="_blank" title="性感Bra 从现在开始" alt="性感Bra 从现在开始" target="_blank" rseat="ti9">性感Bra 从现在开始</a></div>
+                  </div>
+                </div>
+              </li>
+            
+        
+      </ul>
+    </div>
+  </div>
+
+            </div>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:427px" data-asyn-cid="6" data-block-url="http://www.iqiyi.com/ca/8d/1-2235375-2123420-473.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href=" http://www.iqiyi.com/zongyi/">综艺</a></li>
+    <li><a href="http://www.iqiyi.com/zongyi/">精彩推荐</a></li>
+    
+        <li><a href="http://www.iqiyi.com/a_19rrh9swyh.html">梦想的声音</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrh9pwd9.html">坑王驾到</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrh9trg1.html">了不起的孩子</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrh9vbad.html">欢脱定律</a></li>
+      
+        <li><a href="http://www.iqiyi.com/zongyi/hgzy.html">韩国综艺</a></li>
+      
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9enuek.html">梦想的声音第1期精编版</a></p>
+        <p>林俊杰探班萧敬腾后台排练 三小时极致改编《曾经的你》</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9eezk4.html">跨界喜剧王</a></p>
+        <p>何洁演绎貂蝉 巧施连环计戏吕布</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e2gko.html">梦想改造家</a></p>
+        <p>复原重症妈妈“脑海中的家”</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9efa8g.html">今夜百乐门</a></p>
+        <p>金星教学打劫方法虐懵傻歹徒</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9fb4gs.html">叮咯咙咚呛</a></p>
+        <p>蔡国庆蹩脚湖北话逗乐黄妈</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9eyu14.html">如果爱</a></p>
+        <p>付辛博颖儿233米高空速降</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9eeshg.html">十二道锋味</a></p>
+        <p>吴君如另类讲解：比基尼千张包</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9edad4.html">我的新衣</a></p>
+        <p>吴昕小秀法语 羡煞志玲姐姐</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr95t0ic.html">坑王驾到：VIP尊享</a></p>
+        <p>契丹为异兽报仇引发战火</p>
+      </li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9fenio.html?list=19rrkr1376">阿妹实力演绎《默》</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrl5ph4o.html?list=19rrkmtcy6">周一情侣甜蜜瞬间回顾</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9eql04.html">Tfboys变身新晋航天员</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9ef1ac.html">胡彦斌跨界“喜当爹”</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9fezm0.html">尹正致敬偶像张国荣</a></li>
+    
+      <li><a href="http://mall.iqiyi.com/kszt/newclothes20160921.html?odfrm=ZYPDY_PC_JCTJ">“维密女神”何穗驾到</a></li>
+    
+</ul>
+          </div>
+          <div class="wrapper-cols rm-new mod-loading-animate" id="block-AP" data-block-name="跑男4" style="height:216px" data-asyn-cid="51" data-block-url="http://www.iqiyi.com/03/ab/4-1953219.inc">
+            
+
+
+<ul style="display:none;">
+  
+      <li><a href="http://www.iqiyi.com/v_19rrl5ge6k.html">邓超baby深夜恶作剧</a></li>
+    
+      <li><a href="http://www.iqiyi.com/playlist400669602.html">第三季爆笑片段合集 分分钟笑出腹肌</a></li>
+    
+      <li><a href="http://www.iqiyi.com/playlist396025902.html">郑恺谢娜“斥巨资”演唱会开唱</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrl5egwc.html">大黑牛含泪回顾第三季</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrl351s8.html">第三季回顾：王祖蓝性感嘴唇最讨喜</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrl49xks.html?list=19rroek15u">李晨变身技术牛开挂玩游戏</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrlch94s.html">鹿晗跑男回忆录珍藏片段大放送</a></li>
+    
+</ul>
+          </div>         
+          <div class="wrapper-cols mod-loading-animate" id="block-I" data-block-name="脱口秀" style="height:216px" data-asyn-cid="31" data-block-url="http://www.iqiyi.com/fa/87/1-2235375-2123421-542.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://talkshow.iqiyi.com/">脱口秀</a></li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9f1lk8.html">晓松奇谈</a></p>
+        <p>乔布斯与皮克斯动画的情缘</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9f7dss.html">晚安 朋友圈</a></p>
+        <p>张靓颖冯轲意大利完婚</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9dvnbk.html">非首脑会谈</a></p>
+        <p>川普歧视女性惹争议 支持下滑 </p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9dpd94.html">反恐绝密档案</a></p>
+        <p>黑寡妇：女人们的恐怖主义</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e3wrw.html">大神有料</a></p>
+        <p>爱豆的大学 允儿GD都是高学历	</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e20hc.html">笑霸来了</a></p>
+        <p>魔性肌肉盔甲 乳摇骚气四溅</p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9f1irw.html">四大名助</a></p>
+        <p>依霖女神现场变装 身材遭吐槽</p>
+      </li>
+    
+</ul>
+          </div>
+          
+
+  <div id="1000000000046" class="ad-wrapper clearfix" style="display:none;">
+    <div id="1000000000335"></div>
+</div>
+          <div class="wrapper-cols mod-loading-animate" id="block-J" data-block-name="娱乐" style="height:427px" data-asyn-cid="7" data-block-url="http://www.iqiyi.com/15/9a/1-2235375-2123423-543.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://yule.iqiyi.com/">娱乐</a></li>
+    
+        <li><a href=" http://yule.iqiyi.com/zbj.html"> 爱奇艺早班机</a></li>
+      
+        <li><a href="http://yule.iqiyi.com/gossip.html">娱乐猛回头</a></li>
+      
+        <li><a href="http://www.iqiyi.com/yule/7m7s.html">七分七秒</a></li>
+      
+        <li><a href="http://yule.iqiyi.com/gossipbang.html">帕帕帮</a></li>
+      
+        <li><a href="http://yule.iqiyi.com/pcb.html">泡菜帮</a></li>
+      
+        <li><a href="http://www.iqiyi.com/yule/cndxt.html">超能大星探</a></li>
+      
+      <li>
+        <p><a href="http://yule.iqiyi.com/zbj.html">爱奇艺早班机：王源16岁生日会 甜馨害羞送祝福</a></p>
+        <p><a href="http://yule.iqiyi.com/zbj.html">要说TFBOYS队长王俊凯前两个月刚在奔向十八岁的道路上迈进了一大步，这边王源同学也紧跟着大哥的步伐，欢欢喜喜地又长大了一岁，同时三小只的年龄也终于排成了一个等差数列。就在昨天，十六岁的王源在长沙举办了自己的“遇见”生日会。甜馨为了缩短和爱豆的年龄差，更是直接发话祝王源哥哥“六岁生日快乐”，你奏说这套路你能玩得过？</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e4bbg.html">张靓颖婚礼唐嫣晒照送祝福 谭维维喜获捧花</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e63sc.html">温馨:陈赫再晒女儿小脚丫照片 变身女儿奴！</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9cyjsw.html">自拍:陈乔恩与王大陆合影 林真心徐太宇再合体</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/yule/jszgyz.html">撩粉：张天爱人气大考察 解锁饭圈花式应援技能</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/yule/hanyu2015.html">获奖:36届韩国影评奖揭晓 李秉宪孙艺珍得最佳男女主</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/yule/2016mama.html">现状:2016MAMA女子表演 泰妍暂获一位	</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e6lwo.html">尴尬:吴亦凡被“调侃”获奖 回应别给我挖坑</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e5t68.html">刷屏:微博评论遭黄图攻陷 韩寒发博：别再刷了</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e68ko.html">重口:52岁张曼玉新MV曝光 与白蛇共舞</a></p>
+        
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/yule/2016wy.html">直播回顾:王源16岁生日会 一起“遇见最好的王源”</a></p>
+        
+      </li>
+    
+</ul>
+          </div>
+          <div id="block-K" data-block-name="为我推荐" style="height:427px" class="mod-loading-animate" data-block-elem="recommend">
+            <div  id="widget-recommendmecontainer" style="display:none">
+              <div class="wrapper-cols" id="widget-recommendme" data-recommendme-type="user" data-recommendme-compiled="true" data-recommendme-recnum="39">
+                <textarea id="recommendme-tpl" style="display:none;">     
+                </textarea>
+                <div data-recommendme-elem="container"> </div>
+              </div>
+            </div>
+          </div>
+          <!--订阅更新 爱频道-->
+          <div id="bookZone-wrap" style="display: none;">
+            <div class="wrapper-cols" >
+              
+
+<div class="site-dingyue-l" id="bookzone-update" data-feedtype="41" style="display: none;">
+  <div class="site-title">
+    <div class="tit-bgLine">
+      <div class="site-title_left">
+        <h3><a href="http://www.iqiyi.com/u/sub"><span rseat="订阅更新">订阅更新</span><span data-hide-elem="auto" rseat="订阅更新更多" class="icon-more">更多<em>&gt;</em></span></a></h3>
+        <ul class="title-subLinks" data-hide-elem="auto">
+          
+            <li class="firstItem"><a rseat="我的全部订阅" title="我的全部订阅" href="http://www.iqiyi.com/u/sub">我的全部订阅</a></li>             
+               
+        </ul>            
+      </div>
+    </div>
+  </div>  
+  <!-- 图片区 -->
+  <ul class="site-piclist site-piclist-180101 site-piclist-180101_indivi headerTitl-picList-180101-iniqiyi" data-list-elem="update"> 
+    
+  </ul>
+  <!-- 图片区 end-->
+ 
+</div>
+<div class="site-dingyue-r" id="bookzone-recommd" data-area="carp" style="display: none;">
+  <!-- 标题 -->
+  <div class="site-title">
+    <div class="tit-bgLine">
+      <div class="site-title_left">
+        <h3><a href="http://aipindao.iqiyi.com/all"><span rseat="爱频道">爱频道</span><span rseat="更多爱频道" class="icon-more">更多<em>&gt;</em></span></a></h3>
+        <ul class="title-subLinks">  
+                    
+        </ul>          
+      </div>
+    </div>
+  </div>
+  <!-- 标题 end-->
+  <div class="wrapper-piclist">
+    <ul class="site-piclist site-180174-description" data-list-elem="recommd" data-widget-follow="lovelist" data-ext="1" data-opt-param="agentType=202&amp;followfrm=1502041_hm">
+      
+    </ul>
+  </div>
+</div>
+
+            </div>
+          </div>  
+          <!--订阅更新 爱频道-->          
+          
+
+ <div class="ad-wrapper clearfix" id="1000000000599" style="display:none"></div>
+          <div id="movie-score-show"></div>
+          <div class="wrapper-cols mod-loading-animate" id="block-L" data-block-name="电影" style="height:695px" data-asyn-cid="1" data-block-url="http://www.iqiyi.com/ed/06/1-2235375-2123426-1607897.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://www.iqiyi.com/dianying/">电影</a></li>
+    <li><a href="http://top.iqiyi.com/dianying.html">电影榜</a></li>
+    
+        <li><a href="http://www.iqiyi.com/dianying/ady.html">爱奇艺爱电影</a></li>
+      
+        <li><a href="http://www.iqiyi.com/weidianying/">网络大电影</a></li>
+      
+        <li><a href="http://vip.iqiyi.com/?fc=b4df9faa4b31aec4">VIP会员</a></li>
+      
+        <li><a href="http://www.iqiyi.com/dianying/thecinema.html">爱奇艺电影文艺院线</a></li>
+      
+      <li><a href="http://www.iqiyi.com/v_19rr96zgic.html">樱桃小丸子（国语）</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr966hkg.html">四平青年之浩哥大战古惑仔</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr97rjk0.html">王牌逗王牌</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9a6byw.html">冰川时代5：星际碰撞（国语）</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9nifyg.html">七月与安生</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9ofttc.html">反贪风暴2</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9f26e0.html">捉迷藏</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrm37l8g.html">所以……和黑粉结婚了</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrmcv010.html">致青春：原来你还在这里</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9mckeo.html">大话西游3</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrlon744.html">火锅英雄</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrm41p6g.html">愤怒的公牛2</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrohimb0.html">西游记之孙悟空三打白骨精</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr966hkg.html">四平青年之浩哥大战古惑仔</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr97rjk0.html">王牌逗王牌</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrlon744.html">火锅英雄</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrlp86jw.html">我的特工爷爷</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9ofttc.html">反贪风暴2</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9nifyg.html">七月与安生</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9mckeo.html">大话西游3</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrmcv010.html">致青春：原来你还在这里</a></li>
+    
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:197px" data-asyn-cid="16" data-block-url="http://www.iqiyi.com/dd/2b/1-2235375-2123427-544.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://www.iqiyi.com/weidianying/">网络电影</a></li>
+    <li><a href="http://trailer.iqiyi.com/">片花</a></li>
+    
+        <li><a href="http://www.iqiyi.com/v_19rr9ih6zc.html?list=19rrkktavq">独播网大推荐</a></li>
+      
+        <li><a href="http://www.iqiyi.com/dianying/fgtwqa.html">我要合作</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrmejr1g.html">《封神传奇》独家特辑</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrm73v28.html">《绝地逃亡》独家特辑</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ozmg4.html">迷途少女</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrm2fznw.html">行李箱里的少女</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9exshc.html">玄灵界</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dwxkk.html">西游伏妖篇：先导预告</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e4ytw.html">我不是潘金莲：短片</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9d04io.html">捉迷藏：秦海璐特辑 </a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e535k.html">间谍同盟：预告片</a></li>
+      
+</ul>
+          </div>
+          
+
+ <div id="1000000000048" class="ad-wrapper clearfix" style="display:none;">
+
+</div>
+          <div class="wrapper-cols mod-loading-animate" id="block-O" data-block-name="电视剧"style="height:589px" data-asyn-cid="2" data-block-url="http://www.iqiyi.com/d7/84/1-2235375-2123429-1607897.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://www.iqiyi.com/dianshiju/">电视剧</a></li>
+    <li><a href=" http://top.iqiyi.com/index/top50.htm?cid=2&dim=day">电视剧榜</a></li>
+    
+        <li><a href="http://list.iqiyi.com/www/2/15-------------11-1-1-iqiyi--.html"> 内地</a></li>
+      
+        <li><a href="http://www.iqiyi.com/dianshiju/hanju.html">韩剧</a></li>
+      
+        <li><a href="http://www.iqiyi.com/dianshiju/oumei.html">美剧</a></li>
+      
+        <li><a href="http://www.iqiyi.com/kszt/iqiyizzj.html">自制剧</a></li>
+      
+        <li><a href="http://www.iqiyi.com/kszt/wlj.html">网络剧</a></li>
+      
+      <li><a href="http://www.iqiyi.com/a_19rrhaqtp1.html" >灵魂摆渡3</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrhaltkd.html" >美人为馅</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrhad6yx.html" >安托万夫人</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrhaqkxp.html" >画江湖之不良人</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrhbeaxt.html" >老九门</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrh9q7a1.html" >我不是妖怪</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrh9xd69.html" >嘿，孩子</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrhbd4i9.html" >幻城</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrh9vb61.html" >暗战危城</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrh9wb2d.html" >寒山令</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrha00o9.html" >刺青</a></li>
+    
+      <li><a href="http://www.iqiyi.com/a_19rrh9zcq1.html" >黑名单 第三季</a></li>
+    
+      <li><a href="http://www.iqiyi.com/dianshiju/sjll_wjt.html" >救命！沉迷灵摆无法自拔！</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr99jpic.html">暗战危城</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr98yi04.html">美人为馅</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr99rlz0.html">寒山令</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9evutk.html">灵魂摆渡3</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr96q688.html">伏击</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rrmbr34s.html">老九门</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9kpl2k.html">绝命后卫师</a></li>
+    
+      <li><a href="http://www.iqiyi.com/v_19rr9gi5k4.html">胭脂</a></li>
+    
+</ul>
+          </div>
+          
+
+ <div class="ad-wrapper clearfix" id="1000000000600" style="display:none"></div>
+          <div class="wrapper-cols mod-loading-animate" style="height:389px" data-asyn-cid="4" data-block-url="http://www.iqiyi.com/a2/ab/1-2235375-2123431-546.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://www.iqiyi.com/dongman/">动漫</a></li>
+    <li><a href="http://child.iqiyi.com/">少儿</a></li>
+    <li><a href="http://www.iqiyi.com/edu/">教育</a></li>
+    
+        <li><a href="http://www.iqiyi.com/dongman/tsyxzq.html">真人特摄</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/4/--303----------2-1-1-1---.html">动画电影</a></li>
+      
+        <li><a href="http://www.iqiyi.com/shaoer/jqm1.html">机器猫</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrgj96i9.html">贝瓦儿歌大全集</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrgjb0xg.html">兔小贝儿歌</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrgj72ho.html">熊出没之环球大冒险</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrifs0xo.html">喜羊羊与灰太狼之开心方程式全集</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb1tmx.html">巧虎</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb2259.html">广场舞</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb8t0d.html">国考</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb2h25.html">考研</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb40k9.html">爆笑虫子全集</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb3xvl.html">航海王</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhap1jp.html">熊出没之秋日团团转</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhabkp5.htmlhttp://www.iqiyi.com/v_19rrl6d4as.html">粉红猪小妹全集</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr97npms.html">小P优优 第3季 英文版</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9n73r8.html">芭比之梦想豪宅全集</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9mnmbo.html">巨神战击队之超救分队</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrl21auk.html">宝宝巴士儿歌精选</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrh9wca5.html">2017国考行测常识知识点精讲</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrjut5sl.html">亲宝儿歌大全</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrgj6wf5.html">和巧虎一起学</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate"style="height:389px" data-asyn-cid="17" data-block-url="http://www.iqiyi.com/42/be/1-2235375-2123432-547.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://sports.iqiyi.com">体育</a></li>
+    <li><a href="http://music.iqiyi.com/">音乐</a></li>
+    <li><a href="http://f.iqiyi.com/">时尚</a></li>
+    
+        <li><a href=" http://list.iqiyi.com/www/17/1673------------2-1-1-0---.html"> 足球</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/17/1688------------2-1-1----.html">篮球</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/17/1700-1704------------1-1-2---.html">美网</a></li>
+      
+        <li><a href="http://www.iqiyi.com/sports/kunlunfight_wjt.html">昆仑决</a></li>
+      
+        <li><a href="http://www.iqiyi.com/yinyue/topmusics20160919.html#tab1"> 爱奇艺音乐榜</a></li>
+      
+        <li><a href=" http://list.iqiyi.com/www/13/-------1230------4-1-2--1-.html"> 独家报道</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/13/-------1235------4-1-2--1-.html">SHOW场</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e6zls.html">热身赛国足5球胜武汉卓尔</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dspas.html">梅西遭黑脚丢失滑板鞋</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e3r7w.html">宁泽涛状态最好时遭停训</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e3ot8.html">FIFA为国足开3罚单</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr96hvjs.html">陈星翰 & 蔡依林 - 恋我癖</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9f84bk.html">Little Big Town - Better Man</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9nerh8.html">防弹少年团 -  血汗泪</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e4720.html">范爷嘉玲红毯拼刺刀</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e4040.html">杨洋登《时装》11月刊</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr96kakk.html">最In蓬松泡面头赚足回头率</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dyafc.html">搞定3招，脸型轻松瘦3圈</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dthmc.html">Irina Shayk性感瞬间集锦</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate"style="height:238px" data-asyn-cid="29" data-block-url="http://www.iqiyi.com/46/18/1-2235375-2123433-603.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://baby.iqiyi.com/">母婴</a></li>
+    <li><a href="http://life.iqiyi.com/">生活</a></li>
+    <li><a href="http://www.iqiyi.com/health/">健康</a></li>
+    
+        <li><a href="http://list.iqiyi.com/www/29/24084-------------4-1-2-iqiyi-1-.html">孕期</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrkf7mtw.html">奇奇儿歌</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/29/24088-------------4-1-2-iqiyi-1-.html">早教课堂</a></li>
+      
+        <li><a href="http://www.iqiyi.com/life/jiaju.html">家居专区</a></li>
+      
+        <li><a href=" http://www.iqiyi.com/common/yhh.html"> 悦活汇</a></li>
+      
+        <li><a href="http://www.iqiyi.com/kszt/meishifans.html">食刻分享</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/32/28069-------------11-1-2--1-.html">医疗卫生</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/32/28441-------------11-1-2--1-.html">养生保健</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb7rrx.html">嘿！你造吗？</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhbfyup.html">奇奇儿歌 《宝贝宝贝》</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9pbsxc.html">冰雪奇缘迷你王国溜冰场</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ewazc.html">薯片的2种吃法</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dwrls.html">韩式妆容 演绎独特魅力</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e49bc.html">告诉你直男品味究竟多可怕</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ds3yg.html">毒蛇冷冻技能致人瘫痪</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:238px" data-asyn-cid="30" data-block-url="http://www.iqiyi.com/31/aa/1-2235375-2123434-603.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://tech.iqiyi.com/">科技</a></li>
+    <li><a href="http://auto.iqiyi.com/">汽车</a></li>
+    <li><a href="http://business.iqiyi.com/">财经</a></li>
+    
+        <li><a href="http://www.iqiyi.com/a_19rrh9ms2x.html">科技相对论第二季</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhb26od.html">极客说</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrkzrzbk.html">楠道说</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9p11jw.html">快车道</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrldiug8.html">车体验</a></li>
+      
+        <li><a href="http://www.iqiyi.com/business/wxbpd.html">大众辉昂·吴晓波频道</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rroo9158.html">天天神评论</a></li>
+      
+        <li><a href="http://datou.iqiyi.com/">大头频道</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e3bag.html">Apple Watch Nike开箱</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ezr64.html">想不到的高科技破案手段</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dmyrk.html">新一代丰田Supra纽北曝光</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ee4p4.html">每周新车/ 冠道竞争力不强</a></li>
+      
+        <li><a href="http://www.iqiyi.com/kszt/lstv.html">乐视欠百亿股价要崩盘？</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dtfd0.html">为什么欧洲不再适合移民</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr95m0is.html">欧洲经济靠德国撑起来？</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:238px" data-asyn-cid="9" data-block-url="http://www.iqiyi.com/cf/4d/1-2235375-2266512-603.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://www.iqiyi.com/jilupian">纪录片</a></li>
+    <li><a href="http://mil.iqiyi.com/">军事</a></li>
+    
+        <li><a href="http://top.iqiyi.com/jilupian.html"> 风云榜</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/3/----------0--2-1-1-1---.html">最新</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrgjaanl.html">热纪录</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrgiiiyp.html">军情七处</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhc0pnl.html">沙场</a></li>
+      
+        <li><a href="http://www.iqiyi.com/zhuanti/shengli70zhounian.html">世界反法西斯胜利70周年</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e49bc.html">告诉你直男品味究竟多可怕</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ds3yg.html">毒蛇冷冻技能致人瘫痪</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr96gtjw.html">乐坛教父单枪匹马对抗台独</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9d0dvc.html">海滩百条蛇追杀海蜥蜴</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rrkqlmpw.html">喜马拉雅天梯</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9cyjh8.html">美暗示歼20偷学F117技术</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9d08r0.html">在航空母舰上如何逃生？</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9d0tkk.html">开飞机撞上大鸟 吓懵了</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:427px" data-asyn-cid="27" data-block-url="http://www.iqiyi.com/0e/a4/1-2235375-2123436-604.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://dv.iqiyi.com/">原创</a></li>
+    <li><a href="http://aipindao.iqiyi.com/all">原创达人</a></li>
+    
+        <li><a href="http://list.iqiyi.com/www/27/----------------iqiyi--.html">原创热点</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/27/21317-------------11-1-2-iqiyi-1-.html">新锐动画</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/27/28034-------------11-1-2-iqiyi-1-.html">网络剧</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhbcnad.html">狂徒</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrhav06x.html">滚蛋吧旁白君</a></li>
+      
+        <li><a href="http://www.iqiyi.com/playlist413720302.html">见诡十法</a></li>
+      
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr99y6vs.html">《怂人列传》吊丝男士睡出天价足疗</a></p>
+        <p><a href="http://www.iqiyi.com/v_19rr99y6vs.html">赚到家！相亲美女喝醉就狂亲；痴情汉求爱护士，扎了几十针打晕也值得；乞丐帮CEO贱指一个亿，天价足疗你想都想不到！双11醉汉血拼李宇春，全场8折甩货到底是个什么鬼。</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e2rhk.html">为啥女生会人肉男友前任</a></p>
+        <p><a href="http://www.iqiyi.com/u/2361305636">微在不懂爱</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9f9reo.html">男人平均时间只有3分钟？</a></p>
+        <p><a href="http://www.iqiyi.com/u/1202874435">酷瞧新媒体</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9dznqg.html">吃煎饼果子还要交税？</a></p>
+        <p><a href="http://www.iqiyi.com/u/1278102571">和新传媒</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9e1e5c.html">欧巴的凉拌比目鱼派对</a></p>
+        <p><a href="http://www.iqiyi.com/u/1354181804">韩国水产品KFISH</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9dpm1g.html">穿比基尼游泳遇哪些尴尬</a></p>
+        <p><a href="http://www.iqiyi.com/u/1209745232">逼你说官方频道</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9en19w.html">别被骗！到底吃啥能壮阳</a></p>
+        <p><a href="http://www.iqiyi.com/u/1309142121">胡桃夹子工作室</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9dzsp4.html">伤不起！你吃过假肉吗</a></p>
+        <p><a href="http://www.iqiyi.com/u/447254898">飞碟说</a></p>
+      </li>
+    
+      <li>
+        <p><a href="http://www.iqiyi.com/v_19rr9ese24.html">作死员工当街神吐槽老板</a></p>
+        <p><a href="http://www.iqiyi.com/u/1344798651">哈哈台原創視頻</a></p>
+      </li>
+    
+      <li><a href="http://www.iqiyi.com/u/1202874435">酷瞧新媒体</a></li>
+    
+      <li><a href="http://www.iqiyi.com/u/1309142121">胡桃夹子工作室</a></li>
+    
+      <li><a href="http://www.iqiyi.com/u/1264826450">星马映像工作室</a></li>
+    
+      <li><a href="http://www.iqiyi.com/u/1227016696">金刚时代</a></li>
+    
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:197px" data-asyn-cid="22" data-block-url="http://www.iqiyi.com/18/aa/1-2235375-2123437-544.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href="http://fun.iqiyi.com/">搞笑</a></li>
+    <li><a href="http://paike.iqiyi.com/">拍客</a></li>
+    
+        <li><a href=" http://list.iqiyi.com/www/22/22169------------3-1-1-1---.html"> 欢乐精选</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/22/22172------------3-1-1-1---.html">雷人囧事</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/22/1900-------------11-1-2-iqiyi-1-.html">奇闻趣事</a></li>
+      
+        <li><a href="http://www.iqiyi.com/paike/cjpkjh.html">加入拍客领万元拍摄设备</a></li>
+      
+        <li><a href="http://www.iqiyi.com/paike/list/mrtj.html">每日必看</a></li>
+      
+        <li><a href="http://www.iqiyi.com/paike/list/mmsj.html">监控纪实</a></li>
+      
+        <li><a href="http://www.iqiyi.com/kszt/Aerial.html">行车记录</a></li>
+      
+        <li><a href="http://www.iqiyi.com/paike/list/zpwh.html">自拍网红</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e2nz0.html">囧！湿身恶整女友大作战</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e0gl0.html">机智男童智斗劫匪</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e20ik.html">辣眼睛！妖孽界的泥石流</a></li>
+      
+        <li><a href="http://www.iqiyi.com/w_19ruge11dt.html">新生蜥蜴群蛇嘴下逃生记</a></li>
+      
+        <li><a href="http://paike.iqiyi.com/">世界上最大的一发烟花</a></li>
+      
+        <li><a href="http://www.iqiyi.com/w_19rugbo7ep.html">实拍两女子一言不合就开撕</a></li>
+      
+        <li><a href="http://www.iqiyi.com/w_19rugk10u9.html?list=19rrkpwppy"> 拍客探访特朗普发家史</a></li>
+      
+        <li><a href="http://paike.iqiyi.com/">实拍日本地陷像在打小怪兽</a></li>
+      
+        <li><a href="http://www.iqiyi.com/w_19rugd9u11.html">货车侧翻 蜜桔遭哄抢</a></li>
+      
+        <li><a href="http://www.iqiyi.com/w_19rufmayl5.html">太可怕！女童被玻璃门砸倒</a></li>
+      
+        <li><a href="http://www.iqiyi.com/l_19rr7ka7uz.html">直播男子网吧连续上网8天+</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate" style="height:257px" data-asyn-cid="8" data-block-url="http://www.iqiyi.com/80/10/1-2235375-2270043-27617.inc">
+            
+
+
+<ul style="display:none;">
+  
+    <li><a href=" http://games.iqiyi.com/">游戏视频</a></li>
+    <li><a href=" http://x.pps.tv/">奇秀</a></li>
+    
+        <li><a href="http://www.iqiyi.com/u/2058864559">爱奇艺游报</a></li>
+      
+        <li><a href="http://list.iqiyi.com/www/8/21275-28063------------1-1-2--1-.html">我的世界</a></li>
+      
+        <li><a href="http://www.iqiyi.com/u/4688985164">游戏有戏</a></li>
+      
+        <li><a href="http://www.iqiyi.com/a_19rrh9zg8d.html">不服来战</a></li>
+      
+        <li><a href="http://x.pps.tv/cate/center/15">奇秀新星</a></li>
+      
+        <li><a href="http://x.pps.tv/cate/center/4">美女</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9czi5c.html">冲田杏梨要演不知火舞</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dy9bc.html">你被强化了，快拔刀！</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e40tc.html">lol坑爹碉堡集锦38</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ej0ik.html">长歌躺赢班：人美胸大莫甘娜 </a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9eimyc.html">枪炮粗品-大神来袭</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ei9ao.html">守望先锋： 世界靠我来拯救！</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9czi5c.html">冲田杏梨要演不知火舞</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9dy9bc.html">你被强化了，快拔刀！</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9e40tc.html">lol坑爹碉堡集锦38</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ej0ik.html">长歌躺赢班：人美胸大莫甘娜 </a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9eimyc.html">枪炮粗品-大神来袭</a></li>
+      
+        <li><a href="http://www.iqiyi.com/v_19rr9ei9ao.html">守望先锋： 世界靠我来拯救！</a></li>
+      
+</ul>
+          </div>
+          <div class="wrapper-cols mod-loading-animate mt30" style="height:156px" data-asyn-cid="50" data-block-url="http://www.iqiyi.com/e6/ee/1-2235375-2123438-606.inc">
+            
+
+
+<ul style="display:none;">
+  
+      <li><a href="http://aipindao.iqiyi.com/">一起看世界</a></li>
+    
+      <li><a href="http://www.iqiyi.com/ad/oneshow2016.html">“金铅笔”来啦！收看直播</a></li>
+    
+      <li><a href="http://www.iqiyi.com/news/HZNZN.html?src=focustext_33_20130410_1">爱奇艺公益寻亲平台</a></li>
+    
+      <li><a href="http://nt.game.iqiyi.com/index.php?cf=1473148008&P00001=[QIYI_AUTHCOOKIE]">《盗墓笔记》小说正版授权游戏</a></li>
+    
+      <li><a href="http://store.iqiyi.com/">爱奇艺应用商店</a></li>
+    
+      <li><a href="http://mall.iqiyi.com/"></a></li>
+    
+      <li><a href="http://www.iqiyi.com/qiyichupin">晓松奇谈</a></li>
+    
+    <li><a href="http://gongyi.iqiyi.com/">公益频道</a></li>
+  
+    <li><a href="http://aipindao.iqiyi.com/">爱频道</a></li>
+  
+    <li><a href="http://www.iqiyi.com/ad/">广告频道</a></li>
+  
+    <li><a href="http://g.pps.tv/">爱奇艺游戏</a></li>
+  
+    <li><a href="http://store.iqiyi.com/">应用商店</a></li>
+  
+    <li><a href="http://mall.iqiyi.com/">爱奇艺商城</a></li>
+  
+    <li><a href="http://www.iqiyi.com/qiyichupin/">爱奇艺出品</a></li>
+  
+</ul>
+          </div>
+          
+
+<div id="1000000000526" class="ad-wrapper clearfix" style="display:none;">
+</div>
+        </div>
+      </div>
+      <div class="index-footer">
+        <div class="index-footer_inner clearfix" id="block-AI" data-block-name="合作伙伴+动态">
+          
+
+
+  <div class="mod_footer_partners">
+    <h2 class="titlePartner">
+      <a href="http://www.iqiyi.com/common/hzzq.html" rseat="合作伙伴">
+        <span class="">合作伙伴</span>
+        <span class="icon-more">更多<em>&gt;</em></span>
+      </a>
+    </h2>
+    <ul class="list_partner clearfix">
+      
+        <li><a href="http://www.wandafilm.com/" title="万达电影网" target="_blank" rseat="万达电影网">万达电影网</a></li>
+      
+        <li><a href="http://www.hbstars.com/Default.shtml" title="华谊兄弟" target="_blank" rseat="华谊兄弟">华谊兄弟</a></li>
+      
+        <li><a href="http://www.ixingmei.com/" title="星美" target="_blank" rseat="星美">星美</a></li>
+      
+        <li><a href="http://www.ewang.com/" title="光线影业" target="_blank" rseat="光线影业">光线影业</a></li>
+      
+        <li><a href="http://www.m1905.com/" title="电影网" target="_blank" rseat="电影网">电影网</a></li>
+      
+        <li><a href="http://www.huacemedia.com/" title="华策影视" target="_blank" rseat="华策影视">华策影视</a></li>
+      
+        <li><a href="http://v.baidu.com" title="百度视频" target="_blank" rseat="百度视频">百度视频</a></li>
+      
+        <li><a href="http://baike.baidu.com/" title="百度百科" target="_blank" rseat="百度百科">百度百科</a></li>
+      
+        <li><a href="http://weibo.com/p/1002065512188486/home?from=page_100206&mod=TAB#place" title="微博视频台" target="_blank" rseat="微博视频台">微博视频台</a></li>
+      
+        <li><a href="http://tieba.baidu.com" title="百度贴吧" target="_blank" rseat="百度贴吧">百度贴吧</a></li>
+      
+        <li><a href="http://www.cnr.cn/" title="央广网" target="_blank" rseat="央广网">央广网</a></li>
+      
+        <li><a href="http://www.hao123.com/" title="hao123" target="_blank" rseat="hao123">hao123</a></li>
+      
+        <li><a href="http://iqiyi.tmall.com" title="爱奇艺天猫店" target="_blank" rseat="爱奇艺天猫店">爱奇艺天猫店</a></li>
+      
+    </ul>
+  </div>
+
+
+
+  <div class="mod_footer_news">
+    <h2 class="titlePartner">
+      <a href="http://www.iqiyi.com/common/news.html" rseat="爱奇艺动态">
+        <span class="">爱奇艺动态</span>
+        <span class="icon-more">更多<em>&gt;</em></span>
+      </a>
+    </h2>
+    <ul class="list_dongtai clearfix">
+      
+        <li><a href="http://www.iqiyi.com/common/20161028/2ea6e208f13fbd19.html" title="《最好的我们》获2016年度大奖" rseat="《最好的我们》获2016年度大奖" target="_blank">《最好的我们》获2016年度大奖</a></li>
+      
+        <li><a href="http://www.iqiyi.com/common/20161107/580ecab6711affb5.html" title="爱奇艺iJOY悦享会17日举办" rseat="爱奇艺iJOY悦享会17日举办" target="_blank">爱奇艺iJOY悦享会17日举办</a></li>
+      
+        <li><a href="http://www.iqiyi.com/common/20161014/152b831a257e4dc4.html" title="爱奇艺成公司人最喜爱视频品牌" rseat="爱奇艺成公司人最喜爱视频品牌" target="_blank">爱奇艺成公司人最喜爱视频品牌</a></li>
+      
+        <li><a href="http://www.iqiyi.com/common/20161010/e5d07739ae434dc7.html" title="《了不起的孩子》15日独家上线" rseat="《了不起的孩子》15日独家上线" target="_blank">《了不起的孩子》15日独家上线</a></li>
+      
+        <li><a href="http://www.iqiyi.com/common/20161010/5cca2f327f4ec26a.html" title="《老九门》全网首部破百亿自制剧" rseat="《老九门》全网首部破百亿自制剧" target="_blank">《老九门》全网首部破百亿自制剧</a></li>
+      
+        <li><a href="http://www.iqiyi.com/common/20161008/b45560761546c9f8.html" title="爱奇艺建成全球领先流量防刷系统" rseat="爱奇艺建成全球领先流量防刷系统" target="_blank">爱奇艺建成全球领先流量防刷系统</a></li>
+      
+    </ul>
+  </div>
+
+        </div>
+      </div>
+      
+
+
+<div id="block-AR" data-block-name="页底">
+  <div class="mod_footer_links">
+    <div class="ftcont"style="margin-top:10px;">
+      <ul id="data-paizhao" class="ftList clearfix">
+        <li>
+          <div class="mb10"><a data-paizhao-elem="btn" data-paizhao-type="net" href="javascript:void(0);" title="京网文[2015]0652-282号-1" rseat="京网文[2015]0652-282号-1">京网文[2015]0652-282号-1</a></div>
+          <div class="mb10"><a href="http://www.miibeian.gov.cn/" target="_blank" title="京ICP证110636号" rseat="京ICP证110636号">京ICP证110636号</a></div>          
+        </li>
+        <li>
+          <div class="mb10">
+            <a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1660527705 " target="_blank" title="中国互联网诚信联盟" rseat="中国互联网诚信联盟">
+              <img src="http://www.qiyipic.com/common/fix/trust.png" alt="中国互联网诚信联盟">中国互联网诚信联盟</a>
+          </div>
+          <div class="mb10">
+            <a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202012091700001" target="_blank" title=" 经营性网站备案信息" rseat=" 经营性网站备案信息">             
+              <img src="http://www.qiyipic.com/common/fix/records.png" alt=" 经营性网站备案信息"> 经营性网站备案信息
+            </a>
+          </div>
+        </li>
+        <li>
+          <div class="mb10"><a data-paizhao-elem="btn" data-paizhao-type="pub" href="javascript:void()" target="_blank" title="出版物经营许可证" rseat="出版物经营许可证">出版物经营许可证 </a> </div>
+          <div class="mb10"><em rseat="京公网安备 11010802010263号">京公网安备 11010802010263号</em></div>
+        </li>
+        <li>
+          <div class="mb10"><a href="http://www.iqiyi.com/common/infoWebSpread.html" title="信息网络传播视听节目许可证 0110544号" rseat="信息网络传播视听节目许可证 0110544号" target="_blank">信息网络传播视听节目许可证 0110544号</a></div>
+          <div class="mb10"><a data-paizhao-elem="btn" data-paizhao-type="zengzhidianxin" href="javascript:void(0);" title="增值电信业务经营许可证 B2-20120273" rseat="增值电信业务经营许可证 B2-20120273">增值电信业务经营许可证 B2-20120273</a></div>
+        </li>
+        <li class="last">
+          <div class="mb10"><a data-paizhao-elem="btn" data-paizhao-type="broadcast" href="javascript:void(0);" title="广播电视节目制作经营许可证 (京)字第1938号" rseat="广播电视节目制作经营许可证 (京)字第1938号">广播电视节目制作经营许可证 (京)字第1938号</a></div>
+          <div class="mb10"><a data-paizhao-elem="btn" data-paizhao-type="yaopin" href="javascript:void(0);" title="互联网药品信息服务资格证书 (京)-经营性-2013-0012" rseat="互联网药品信息服务资格证书 (京)-经营性-2013-0012">互联网药品信息服务资格证书 (京)-经营性-2013-0012</a></div>
+        </li>
+      </ul>
+      <ul class="ftList clearfix">
+        <li>
+          <div class="mb10"><a href="http://www.iqiyi.com/common/webMdicalAgree.html" title="互联网医疗保健信息服务审核同意书 京卫计网审[2015]第0627号" rseat="互联网医疗保健信息服务审核同意书 京卫计网审[2015]第0627号" target="_blank">互联网医疗保健信息服务审核同意书 京卫计网审[2015]第0627号</a></div>
+        </li>
+      </ul>
+    </div>
+    <div id="data-paizhao-content" style="display: none;" class="xkPopbox">
+      <a data-btn="j-close-btn" class="xclose" href="javascript:void(0);"></a>
+      <img data-type="net" alt="京网文[2015]0652-282号-1" data-src="http://pic7.qiyipic.com/common/20150805/2a2984aacccb4eb3ac061341f17c5a34c.png" style="display:none;width:450px;height:330px;">
+      <img data-type="broadcast" alt="广播电视节目制作经营许可证 (京)字第1938号" data-src="http://pic2.qiyipic.com/common/20160707/688eb8f21ed44e0eb366c2425ee18731.png" style="display:none;width:440px;height:330px;">
+      <img data-type="info" alt="信息网络传播视听节目许可证 0110544号" data-src="" style="display:none;width:560px;height:400px;">
+      <img data-type="yaopin" alt="互联网药品信息服务资格证书 (京)-经营性-2013-0012" data-src="http://pic9.qiyipic.com/common/20131030/fe0d4dcdcd2a4da3b701ce803c31370d.jpg" style="display:none;width:752px;height:542px;">
+      <img data-type="zengzhidianxin" alt="增值电信业务经营许可证 B2-20120273" data-src="http://pic0.qiyipic.com/common/20131030/3e2fef4870ce439aae5e894ad51047d3.jpg" style="display:none;width:620px;height:470px;">
+      <img data-type="pub" alt="出版物经营许可证" data-src="http://pic5.qiyipic.com/common/20160420/70b03d0f424d405ba1781b4d5faac4b4.png" style="display:none;width:450px;height:320px;">
+    </div>
+    <div class="footmenu">
+      <style>.temp, a.temp:active { color: #BD0A01;} a.temp:hover {color:#f40} </style>
+         
+        
+         
+        <a href="http://www.iqiyi.com/common/aboutus.html" rel="nofollow" title="公司介绍" rseat="公司介绍" target="_blank" >公司介绍</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://www.iqiyi.com/common/news.html" rel="nofollow" title="新闻动态" rseat="新闻动态" target="_blank" >新闻动态</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://www.iqiyi.com/common/contactus.html" rel="nofollow" title="联系方式" rseat="联系方式" target="_blank" >联系方式</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://zhaopin.iqiyi.com" rel="nofollow" title="招聘英才" rseat="招聘英才" target="_blank" >招聘英才</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://labs.iqiyi.com" rel="nofollow" title="爱奇艺实验室" rseat="爱奇艺实验室" target="_blank" >爱奇艺实验室</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://open.iqiyi.com/" rel="nofollow" title="开放平台" rseat="开放平台" target="_blank" >开放平台</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://www.iqiyi.com/common/rz.html" rel="nofollow" title="爱频道认证" rseat="爱频道认证" target="_blank" >爱频道认证</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://www.iqiyi.com/zuozhe.html" rel="nofollow" title="爱奇艺作者中心" rseat="爱奇艺作者中心" target="_blank" class="temp">爱奇艺作者中心</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="https://security.iqiyi.com/" rel="nofollow" title="安全应急响应中心" rseat="安全应急响应中心" target="_blank" >安全应急响应中心</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://bbs.iqiyi.com/" rel="nofollow" title="爱奇艺论坛" rseat="爱奇艺论坛" target="_blank" >爱奇艺论坛</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://www.iqiyi.com/common/helpandsuggest.html?entry=yedi" rel="nofollow" title="帮助与反馈" rseat="帮助与反馈" target="_blank" >帮助与反馈</a>
+        <i class="cutline">|</i>
+         
+        
+         
+        <a href="http://www.iqiyi.com/common/copyright.html?entry=iqiyi" rel="nofollow" title="侵权投诉" rseat="侵权投诉" target="_blank" >侵权投诉</a>
+        
+      
+      <div class="region clearfix dn" id="footer-websel-menu">
+        <label class="region-tit">所在地</label>
+        <!-- hover时追加region-opt-hover -->
+        <div class="region-opt" id="i18n-selweb-footer">
+          <a class="select-handler" href="javascript:;" j-delegate="i18n-change-btn"><span id="i18n-selweb-text">中国（大陆）</span><i class="handler-btn"></i></a>
+          <ul class="select-opt" id="i18n-selweb-wrap">
+            <li class="link-option selected"><a href="javascript:;" style="display:block;" j-delegate="i18n-change-web" i18n-web-type="cn" rseat="中国大陆">中国（大陆）</a></li>
+            <li class="link-option"><a href="javascript:;" style="display:block;" j-delegate="i18n-change-web" i18n-web-type="tw" rseat="台湾">台湾</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix tc" style="padding: 5px 0 5px 0;">
+      <a rseat="中国互联网举报中心" title="中国互联网举报中心" target="_blank" href="http://www.12377.cn"><img alt="中国互联网举报中心" src="http://pic4.qiyipic.com/common/20160115/c116ab2233db4db2902f339a76e56d21.png"><span style="color:#666;">中国互联网举报中心</span></a>
+      <a rseat="网络举报APP下载" title="网络举报APP下载" target="_blank" href="http://www.12377.cn/node_548446.htm"><span class="ml30" style="color:#666;">网络举报APP下载</span></a>
+      <a rseat="网上暴恐有害信息举报" title="网上暴恐有害信息举报" target="_blank" href="http://jubao.12377.cn:13225/reportform.do"><span class="ml30"style="color:#666;">网上暴恐有害信息举报</span></a>
+      <span class="ml30">违法和不良信息举报电话：400-923-7171</span><span class="ml30 mr30">举报邮箱：<a href="mailto:jubao365@qiyi.com" style="color:#666;">jubao365@qiyi.com</a></span>
+    </div>
+    <div class="copyright" style="padding: 5px 0 5px 0;">
+      <a href="http://www.iqiyi.com/common/announce.html" target="_blank" title="反盗版和反盗链权利声明" rseat="反盗版和反盗链权利声明">反盗版和反盗链权利声明</a>&nbsp;&nbsp;&nbsp; 
+      Copyright © 2016 <a href="http://www.iqiyi.com/" title="爱奇艺" rseat="爱奇艺">爱奇艺</a> <span rseat="© 2016 iQIYI.COM"> All Rights Reserved</span> 
+    </div>
+  </div>
+</div>
+<div style="display:none" id="i18nWebSelTip"></div>
+ 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?53b7374a63c37483e5dd97d78d9bb36e";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+					
+    </div>
+  </body>
+  
+ 
+
+
+    <script type="text/javascript">  
+      (function(){
+        if(window.__qlt && window.__qlt.start){
+          window.__qlt.start("qaLoadReady");
+        }
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = document.location.protocol + "//static.iqiyi.com/js/pingback/qa.js";
+        s.onload = s.onreadystatechange = function () {
+          if (!s.readyState || "loaded" == s.readyState || "complete" == s.readyState) {
+            if(window.__qlt && window.__qlt.end){
+              window.__qlt.end("qaLoadReady");
+            }
+            s.onload = s.onreadystatechange = null;
+          }
+        };
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <!-- Begin 艾瑞 -->
+    <script>
+      var _iwt_UA="UA-iqiyi-000001",_iwt_no_flash=1; //客户项目编号,根据实际生成
+      (function (D) {
+        var s=D.createElement("script"),h=D.getElementsByTagName("head")[0];s.src="http://static.iqiyi.com/js/pingback/iwt.js";s.type="text/javascript";s.charset="utf-8";
+        h.appendChild(s);
+      })(document);
+    </script>
+    <!-- End 艾瑞 -->
+    <!-- Begin comScore Tag -->
+    <script>
+      var __LT__ = window.__LT__ || {
+        j:{},
+        c:{},
+        f:{},
+        l:{},
+        i:{},
+        s:{}
+      };
+      __LT__.j['comscore'] = new Date();
+      __LT__.j['iwt'] = __LT__.j['comscore'];
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "7290408" });
+      if(window.__qlt && window.__qlt.start){
+        window.__qlt.start("comscoreLoadReady");
+      }
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        s.onload = s.onreadystatechange = function () {
+          if (!s.readyState || "loaded" == s.readyState || "complete" == s.readyState) {
+            if(window.__qlt && window.__qlt.end){
+              window.__qlt.end("comscoreLoadReady");
+            }
+            __LT__.j['comscore'] = new Date() - __LT__.j['comscore'];
+            s.onload = s.onreadystatechange = null;
+          }
+        };
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=7290408&cv=2.0&cj=1"/>
+    </noscript>
+    <!-- End comScore Tag -->
+  
+
+  <script type="text/javascript">
+    Q.projectName = 'qiyiV2'; 
+    Q.load("ugcIndex");
+  </script>
+</html>
